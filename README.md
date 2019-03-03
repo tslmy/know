@@ -2,7 +2,7 @@
 description: Welcome to the personal knowledge base of Mingyang Li!
 ---
 
-# Landing Page
+# 🛬 Landing Page
 
 This _GitBook_ is my personal repository of notes that can be publicly shared.
 

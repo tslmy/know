@@ -2,7 +2,7 @@
 description: 'Describes how I take, store, and edit various notes.'
 ---
 
-# How I Organize my Notes with Apps
+# 📝 How I Organize my Notes with Apps
 
 ![https://unsplash.com/photos/RLw-UC03Gwc](.gitbook/assets/image%20%281%29.png)
 

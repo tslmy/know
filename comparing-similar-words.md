@@ -2,7 +2,7 @@
 description: Compare words that are similar and may be confused with each other.
 ---
 
-# Comparing Similar Words
+# ⚖️ Comparing Similar Words
 
 ![https://unsplash.com/photos/SQM0sS0htzw](.gitbook/assets/image%20%282%29.png)
 
