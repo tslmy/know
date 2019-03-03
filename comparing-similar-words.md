@@ -4,7 +4,41 @@ description: Compare words that are similar and may be confused with each other.
 
 # Comparing Similar Words
 
-## Math & Science
+![https://unsplash.com/photos/SQM0sS0htzw](.gitbook/assets/image%20%282%29.png)
+
+## Science
+
+### Resonance and Inductive Effects
+
+There are two main electronic effects that substituents can exert:
+
+* RESONANCE effects are those that occur through the p system and can be represented by resonance structures. These can be either electron donating \(e.g. -OMe\) where p electrons are pushed toward the arene or electron withdrawing \(e.g. -C=O\) where p electrons are drawn away from the arene.
+* INDUCTIVE effects are those that occur through the s system due to electronegativity type effects. These too can be either electron donating \(e.g. -Me\) where s electrons are pushed toward the arene or electron withdrawing \(e.g. -CF3, +NR3\) where s electrons are drawn away from the arene.
+
+### "Thermodynamic reaction control" v.s. "Kinetic reaction control"
+
+#### COMMON PROPERTIES
+
+decide the composition of the product mixture of a reaction when:
+
+* competing pathways lead to different products
+* the reaction conditions influence the selectivity
+
+#### Thermodynamic reaction control
+
+* Favors the thermodynamic product - the one with the lower internal energy.
+* Advantage in competition: product is more stable \(due to lower U\).
+* favored in lower temperature \(where the Ea barrier cannot be easily overcome\).
+* goes the thermodynamically-controlled pathway
+* e.g.: 1,4-addition of HBr to Dienes
+
+#### Kinetic reaction control
+
+* Favors the kinetic product - the one with the lower kinetic energy.
+* Advantage in competition: goes faster \(due to lower Ea\).
+* favored in high temperature \(where the Ea barrier can be easily overcome\).
+* goes the kinetically-controlled pathway
+* e.g.: 1,2-addition of HBr to Dienes
 
 ### Eigenvectors v.s. eigenvalues
 
