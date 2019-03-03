@@ -4,7 +4,7 @@ description: 'Describes how I take, store, and edit various notes.'
 
 # 📝 How I Organize my Notes with Apps
 
-![https://unsplash.com/photos/RLw-UC03Gwc](.gitbook/assets/image%20%281%29.png)
+![https://unsplash.com/photos/RLw-UC03Gwc](../.gitbook/assets/image%20%281%29.png)
 
 Crossed-outs are what I used to use but moved away from \(due to death of product, etc.\).
 

@@ -1,7 +1,13 @@
 # Table of contents
 
 * [🛬 Landing Page](README.md)
-* [📝 How I Organize my Notes with Apps](how-i-organize-my-notes-with-apps.md)
-* [⚖️ Comparing Similar Words](comparing-similar-words.md)
-* [🐧 Switching From macOS To Linux](switching-from-macos-to-linux.md)
+
+## Knowledge Collection
+
+* [⚖️ Comparing Similar Words](knowledge-collection/comparing-similar-words.md)
+
+## Summary and Review
+
+* [📝 How I Organize my Notes with Apps](summary-and-review/how-i-organize-my-notes-with-apps.md)
+* [🐧 Switching From macOS To Linux](summary-and-review/switching-from-macos-to-linux.md)
 
