@@ -8,5 +8,5 @@ description: >-
 
 Data generated from [Wikipedia](https://en.wikipedia.org/wiki/List_of_academic_fields). After converting to a mindmap, I removed branches that didn't ring a bell to me. Deleting those branches was a very humbling process.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 

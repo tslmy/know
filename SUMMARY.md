@@ -2,14 +2,20 @@
 
 * [🛬 Landing Page](README.md)
 
-## Knowledge Collection
+## Others
 
 * [⚖️ Comparing Similar Words](knowledge-collection/comparing-similar-words.md)
+* [Types of Assets \(Finance\)](knowledge-collection/types-of-assets-finance.md)
 
-## Summary and Review
+## Data Science
+
+* [💬 Char/Word/Sent/Doc Embedding Models](data-science/char-word-sent-doc-embedding-models.md)
+* [Optimizers For Neural Networks](data-science/optimizers-for-neural-networks.md)
+* [Types of Parallel Computing](data-science/types-of-parallel-computing.md)
+
+## Personal Experiences
 
 * [🎓 Academic Fields I've Studied / Researched](summary-and-review/academic-fields-ive-studied-researched.md)
 * [📝 How I Organize my Notes with Apps](summary-and-review/how-i-organize-my-notes-with-apps.md)
 * [🐧 Switching From macOS To Linux](summary-and-review/switching-from-macos-to-linux.md)
-* [💬 Char/Word/Sent/Doc Embedding Models](summary-and-review/char-word-sent-doc-embedding-models.md)
 
