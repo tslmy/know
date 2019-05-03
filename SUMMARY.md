@@ -13,6 +13,7 @@
 * [Optimizers For Neural Networks](data-science/optimizers-for-neural-networks.md)
 * [Types of Parallel Computing](data-science/types-of-parallel-computing.md)
 * [Prepare Qualtrics Survey With Batch-Populated Questions](data-science/prepare-qualtrics-survey-with-batch-populated-questions.md)
+* [☕ Explaining Heatmap Estimation with CNN, Metaphorically](data-science/explaining-heatmap-estimation-with-cnn-metaphorically.md)
 
 ## Personal Experiences
 
