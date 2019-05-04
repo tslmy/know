@@ -24,3 +24,7 @@
 * [Flat/House Hunting in Mountain View](summary-and-review/flat-house-hunting-in-mountain-view.md)
 * [Filing Tax Return in the States](summary-and-review/filing-tax-return-in-the-states.md)
 
+## 中文 \(Chinese\)
+
+* [讲各种语言时发生的囧事](zhong-wen-chinese/jiang-ge-zhong-yu-yan-shi-fa-sheng-de-shi.md)
+
