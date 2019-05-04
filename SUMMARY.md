@@ -27,4 +27,5 @@
 ## 中文 \(Chinese\)
 
 * [讲各种语言时发生的囧事](zhong-wen-chinese/jiang-ge-zhong-yu-yan-shi-fa-sheng-de-shi.md)
+* [我与身边人的有趣对话](zhong-wen-chinese/wo-yu-shen-bian-ren-de-you-qu-dui-hua.md)
 
