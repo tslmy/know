@@ -13,9 +13,13 @@ Lying around in my home at China is a PC that I held dear the most during my six
 Without further emotional reviews, here's the specs:
 
 * **CPU**: [Intel® Pentium® Processor E5700](https://ark.intel.com/content/www/us/en/ark/products/42801/intel-pentium-processor-e5700-2m-cache-3-00-ghz-800-mhz-fsb.html) \(2M Cache, 3.00 GHz, 800 MHz FSB\)
-* **Power Supply Unit \(PSU\):** [AcBel PC7009](http://www.acbel.com/eng/Product.aspx?id=48&&sd=31&&pid=179). 430W. About [$67](https://www.pchub.com/acbel-polytech-pc7009-server-power-supply-430w-pc7009-atx12v-p157618)?
+  * ~~~~[~~Second-hand listings on Amazon~~](https://www.amazon.com/gp/offer-listing/B003WQ0L12/ref=dp_olp_0?ie=UTF8&condition=all) ~~suggest a wide range of price. I'd say mine is worth $20.~~
+  * Taobao listing gives CNY￥11 \(~US$1.60\).
+* **Power Supply Unit \(PSU\):** [AcBel PC7009](http://www.acbel.com/eng/Product.aspx?id=48&&sd=31&&pid=179). 430W. 
+  * Used price: ~~About~~ [~~$67~~](https://www.pchub.com/acbel-polytech-pc7009-server-power-supply-430w-pc7009-atx12v-p157618)~~?~~ CNY￥35 \(~US$5.09\).
 * **Motherboard**: Gigabyte [GA-EP45C-DS3](https://www.gigabyte.com/Motherboard/GA-EP45C-DS3-rev-10#ov) \(w/o R\) with BIOS version F5
   * **The on-board CMOS battery needs replacement.** With a power outage, the BIOS always falls back to a last-known-good configuration, which holds CPU running at 1.7GHz instead of 3.0GHz.
+  * You can get an used one for CNY￥250 \(~US$36.32\).
 * **RAM**: 2x2GB=4GB. 
   * Model: [Kingston 2GB 240-Pin DDR3 SDRAM DDR3 1333 Desktop Memory Model KVR1333D3S8N9/2G](https://www.newegg.com/kingston-2gb-240-pin-ddr3-sdram/p/N82E16820139640?Description=KVR1333D3S8N9%2f2G&cm_re=KVR1333D3S8N9%2f2G-_-20-139-640-_-Product). Remember that I have two pieces of this occupying the only two DDR3 slots.
     * Current worth per piece, per Newegg: New from $34.031; Used from $17.95.
@@ -23,6 +27,25 @@ Without further emotional reviews, here's the specs:
   * A relevantly newer pair of RAM modules does not work with this particular motherboard \(or CPU\). Maybe I just need to tweak the BIOS settings?
     * While we are on it: list of [compatible RAMs](http://download.gigabyte.cn/FileList/Memory/motherboard_memory_ga-ep45c-ds3.pdf) \(PDF\).
 * **GPU**: [Nvidia GeForce GTX 460](https://www.geforce.com/hardware/desktop-gpus/geforce-gtx-460). I just brighout this back from the USA to China, simply because I had that space in my luggage. 
+  * Seems that you can get a piece of these with CNY￥160\(~US$23.25, about right!\).
+* **HDD:** Western Digital WD Green [WD10EARS](http://products.wdc.com/library/SpecSheet/ENG/2879-701229.pdf) 1TB 5400 RPM 64MB Cache SATA 3.0Gb/s 3.5". 
+  * Used: $32.19 \([Newegg](https://www.newegg.com/p/N82E16822136490)\) or CNY￥120 \(Taobao\).
+* There are also a DVD reader, a CD burner, and even a 3.5-inch floppy drive in the system, but, hey, who cares.
+
+Now, just a brief summary:
+
+| Part | Model | Used Part Price in CNY | in USD |
+| :--- | :--- | :--- | :--- |
+| **CPU** | [Intel® Pentium® Processor E5700](https://ark.intel.com/content/www/us/en/ark/products/42801/intel-pentium-processor-e5700-2m-cache-3-00-ghz-800-mhz-fsb.html) | 11.00 | 1.60 |
+| **PSU** | [AcBel PC7009](http://www.acbel.com/eng/Product.aspx?id=48&&sd=31&&pid=179) | 35.00 | 5.09 |
+| **MoBo** | Gigabyte [GA-EP45C-DS3](https://www.gigabyte.com/Motherboard/GA-EP45C-DS3-rev-10#ov) | 250.00 | 36.32 |
+| **RAM** | Kingston [KVR1333D3S8N9/2G](https://www.newegg.com/kingston-2gb-240-pin-ddr3-sdram/p/N82E16820139640?Description=KVR1333D3S8N9%2f2G&cm_re=KVR1333D3S8N9%2f2G-_-20-139-640-_-Product) | 30.00x2 | 8.72 |
+| **GPU** | [Nvidia GeForce GTX 460](https://www.geforce.com/hardware/desktop-gpus/geforce-gtx-460) | 160.00 | 23.25 |
+| **HDD** | Western Digital WD Green [WD10EARS](http://products.wdc.com/library/SpecSheet/ENG/2879-701229.pdf) | 120.00 | 17.43 |
+
+That's a total of US$92.41. All of sudden \(not that fast; it has been six years away since I last actively used it\), the PC entered a race of budget builds. ~~Now the question is, can it run crysis?~~
+
+I don't know exactly how much my dad paid for all the parts throughout the years of building & upgrading it, but I'm very sure that it would probably not worth my while investing more time in actually using this machine. Let me see if I can repurpose it.
 
 ## Philadelphia $200 Build
 
