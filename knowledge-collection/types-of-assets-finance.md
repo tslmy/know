@@ -4,7 +4,7 @@ description: What you could expect from a balance sheet.
 
 # Types of Assets \(Finance\)
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 * **entity**
   * company
