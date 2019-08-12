@@ -14,6 +14,7 @@
 * [Types of Parallel Computing](data-science/types-of-parallel-computing.md)
 * [Prepare Qualtrics Survey With Batch-Populated Questions](data-science/prepare-qualtrics-survey-with-batch-populated-questions.md)
 * [☕ Explaining Heatmap Estimation with CNN, Metaphorically](data-science/explaining-heatmap-estimation-with-cnn-metaphorically.md)
+* [On Clustering Documents Unsupervisedly](data-science/clustering-documents-unsupervisedly.md)
 
 ## Personal Experiences <a id="summary-and-review"></a>
 
