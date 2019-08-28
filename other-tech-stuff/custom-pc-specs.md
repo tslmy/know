@@ -12,9 +12,11 @@ Lying around in my home at China is a PC that I held dear the most during my six
 
 Without further emotional reviews, here's the specs:
 
-* **CPU**: [Intel® Pentium® Processor E5700](https://ark.intel.com/content/www/us/en/ark/products/42801/intel-pentium-processor-e5700-2m-cache-3-00-ghz-800-mhz-fsb.html) \(2M Cache, 3.00 GHz, 800 MHz FSB\)
+* **CPU**: [~~Intel® Pentium® Processor E5700~~](https://ark.intel.com/content/www/us/en/ark/products/42801/intel-pentium-processor-e5700-2m-cache-3-00-ghz-800-mhz-fsb.html) ~~\(2M Cache, 3.00 GHz, 800 MHz FSB\)~~
   * ~~~~[~~Second-hand listings on Amazon~~](https://www.amazon.com/gp/offer-listing/B003WQ0L12/ref=dp_olp_0?ie=UTF8&condition=all) ~~suggest a wide range of price. I'd say mine is worth $20.~~
   * Taobao listing gives CNY￥11 \(~US$1.60\).
+  * Update 08/28/19: Upgraded this to an [Intel® Core™2 Quad Processor Q9650](https://ark.intel.com/content/www/us/en/ark/products/35428/intel-core-2-quad-processor-q9650-12m-cache-3-00-ghz-1333-mhz-fsb.html) for CNY￥205 \(~US$28.63\).
+    * This is the highest-performance CPU that is officially supported.
 * **Power Supply Unit \(PSU\):** [AcBel PC7009](http://www.acbel.com/eng/Product.aspx?id=48&&sd=31&&pid=179). 430W. 
   * Used price: ~~About~~ [~~$67~~](https://www.pchub.com/acbel-polytech-pc7009-server-power-supply-430w-pc7009-atx12v-p157618)~~?~~ CNY￥35 \(~US$5.09\).
 * **Motherboard**: Gigabyte [GA-EP45C-DS3](https://www.gigabyte.com/Motherboard/GA-EP45C-DS3-rev-10#ov) \(w/o R\) with BIOS version F5
@@ -36,14 +38,14 @@ Now, just a brief summary:
 
 | Part | Model | Used Part Price in CNY | in USD |
 | :--- | :--- | :--- | :--- |
-| **CPU** | [Intel® Pentium® Processor E5700](https://ark.intel.com/content/www/us/en/ark/products/42801/intel-pentium-processor-e5700-2m-cache-3-00-ghz-800-mhz-fsb.html) | 11.00 | 1.60 |
+| **CPU** | [Intel® Core™2 Quad Processor Q9650](https://ark.intel.com/content/www/us/en/ark/products/35428/intel-core-2-quad-processor-q9650-12m-cache-3-00-ghz-1333-mhz-fsb.html) | 205.00 | 28.63 |
 | **PSU** | [AcBel PC7009](http://www.acbel.com/eng/Product.aspx?id=48&&sd=31&&pid=179) | 35.00 | 5.09 |
-| **MoBo** | Gigabyte [GA-EP45C-DS3](https://www.gigabyte.com/Motherboard/GA-EP45C-DS3-rev-10#ov) | 250.00 | 36.32 |
+| **MoBo** | Gigabyte [GA-EP45C-DS3](https://www.gigabyte.com/Motherboard/GA-EP45C-DS3-rev-10#ov)R | 250.00 | 36.32 |
 | **RAM** | Kingston [KVR1333D3S8N9/2G](https://www.newegg.com/kingston-2gb-240-pin-ddr3-sdram/p/N82E16820139640?Description=KVR1333D3S8N9%2f2G&cm_re=KVR1333D3S8N9%2f2G-_-20-139-640-_-Product) | 30.00x2 | 8.72 |
 | **GPU** | [Nvidia GeForce GTX 460](https://www.geforce.com/hardware/desktop-gpus/geforce-gtx-460) | 160.00 | 23.25 |
 | **HDD** | Western Digital WD Green [WD10EARS](http://products.wdc.com/library/SpecSheet/ENG/2879-701229.pdf) | 120.00 | 17.43 |
 
-That's a total of US$92.41. All of sudden \(not that fast; it has been six years away since I last actively used it\), the PC entered a race of budget builds. ~~Now the question is, can it run crysis?~~
+That's **a total of US$119.44**. All of sudden \(not that fast; it has been six years away since I last actively used it\), the PC entered a race of budget builds. ~~Now the question is, can it run crysis?~~
 
 I don't know exactly how much my dad paid for all the parts throughout the years of building & upgrading it, but I'm very sure that it would probably not worth my while investing more time in actually using this machine. Let me see if I can repurpose it.
 
