@@ -20,4 +20,5 @@ Here we go.
 * **190811**: Set up my first-ever [InfluxDB](https://www.influxdata.com/). This is meant for my side project of learning time-series DBMS.
 * **190812**: Set up my first-ever [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) agent for scraping [AlphaAdvantage](https://www.alphavantage.co/) to an [InfluxDB](https://www.influxdata.com/). 
 * **190812**: Learned to use [Reason Compact](https://apps.apple.com/us/app/reason-compact-make-music/id1253419004), an iOS app for creating music. Composed a short demo, [Candy Jar](https://soundcloud.com/tslmy/candy-jar), with it.
+* **190831**: Ran my first [Google Cloud](https://console.cloud.google.com/home/dashboard) [AutoML Tables](https://cloud.google.com/automl-tables/docs/quickstart) model for the _pltns_ project.
 
