@@ -22,6 +22,7 @@
 * [🐧 Switching From macOS To Linux](other-tech-stuff/switching-from-macos-to-linux.md)
 * [💻 Custom PC Specs](other-tech-stuff/custom-pc-specs.md)
 * [📝 How I Organize my Notes with Apps](other-tech-stuff/how-i-organize-my-notes-with-apps.md)
+* [Setting Up My Own VPN for Work](other-tech-stuff/setting-up-my-own-vpn-for-work.md)
 
 ## Life Experiences <a id="summary-and-review"></a>
 
