@@ -21,4 +21,9 @@ Here we go.
 * **190812**: Set up my first-ever [Telegraf](https://www.influxdata.com/time-series-platform/telegraf/) agent for scraping [AlphaAdvantage](https://www.alphavantage.co/) to an [InfluxDB](https://www.influxdata.com/). 
 * **190812**: Learned to use [Reason Compact](https://apps.apple.com/us/app/reason-compact-make-music/id1253419004), an iOS app for creating music. Composed a short demo, [Candy Jar](https://soundcloud.com/tslmy/candy-jar), with it.
 * **190831**: Ran my first [Google Cloud](https://console.cloud.google.com/home/dashboard) [AutoML Tables](https://cloud.google.com/automl-tables/docs/quickstart) model for the _pltns_ project.
+* **190901**: Made another short melody, [Me Gegavere](https://soundcloud.com/tslmy/me-gegavere), with [Reason Compact](https://apps.apple.com/us/app/reason-compact-make-music/id1253419004).
+* **190904**: Built my first Docker compose file on top of [influxdata/sandbox](https://github.com/influxdata/sandbox).
+* **190906**: Figured out how to install `auto-sklearn` on macOS for the recent versions.
+
+
 
