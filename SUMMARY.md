@@ -16,7 +16,7 @@
 * [Prepare Qualtrics Survey With Batch-Populated Questions](data-science/prepare-qualtrics-survey-with-batch-populated-questions.md)
 * [☕ Explaining Heatmap Estimation with CNN, Metaphorically](data-science/explaining-heatmap-estimation-with-cnn-metaphorically.md)
 * [On Clustering Documents Unsupervisedly](data-science/clustering-documents-unsupervisedly.md)
-* [How to Install auto-sklearn on macOS 10.14~10.15](data-science/how-to-install-auto-sklearn-on-macos-10.14-10.15.md)
+* [🐋 How to Install auto-sklearn on macOS 10.14~10.15](data-science/how-to-install-auto-sklearn-on-macos-10.14-10.15.md)
 
 ## Other Tech Stuff
 
@@ -28,9 +28,10 @@
 ## Life Experiences <a id="summary-and-review"></a>
 
 * [🎓 Academic Fields I've Studied / Researched](summary-and-review/academic-fields-ive-studied-researched.md)
-* [Postcrossing](summary-and-review/postcrossing.md)
-* [Flat/House Hunting in Mountain View](summary-and-review/flat-house-hunting-in-mountain-view.md)
+* [📮 Postcrossing](summary-and-review/postcrossing.md)
+* [🏘 Flat/House Hunting in Mountain View](summary-and-review/flat-house-hunting-in-mountain-view.md)
 * [Filing Tax Return in the States](summary-and-review/filing-tax-return-in-the-states.md)
+* [😂 How to Be A Fun Person](summary-and-review/how-to-be-a-fun-person.md)
 
 ## 中文 \(Chinese\)
 

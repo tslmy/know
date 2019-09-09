@@ -2,7 +2,7 @@
 description: Works for me. Twice.
 ---
 
-# How to Install auto-sklearn on macOS 10.14~10.15
+# 🐋 How to Install auto-sklearn on macOS 10.14~10.15
 
 ## via Docker
 

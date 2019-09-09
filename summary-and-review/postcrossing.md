@@ -1,4 +1,4 @@
-# Postcrossing
+# 📮 Postcrossing
 
 I love sending and receiving postcards. These hard-papered mailables add a tangible touch of caring to this generation of us whose textual communications has gone 99% electronic. 
 

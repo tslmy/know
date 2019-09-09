@@ -2,7 +2,7 @@
 description: 'Disclosed for potential roommate-hunting... okay, this sounds weird.'
 ---
 
-# Flat/House Hunting in Mountain View
+# 🏘 Flat/House Hunting in Mountain View
 
 ![https://unsplash.com/photos/O9l6W-nofj0](../.gitbook/assets/image.png)
 
