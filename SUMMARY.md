@@ -33,6 +33,7 @@
 
 * [🎓 Academic Fields I've Studied / Researched](summary-and-review/academic-fields-ive-studied-researched.md)
 * [📮 Postcrossing](summary-and-review/postcrossing.md)
+* [📚 Book Reviews](summary-and-review/book-reviews.md)
 * [🏘 Flat/House Hunting in Mountain View](summary-and-review/flat-house-hunting-in-mountain-view.md)
 * [Filing Tax Return in the States](summary-and-review/filing-tax-return-in-the-states.md)
 * [😂 How to Be A Fun Person](summary-and-review/how-to-be-a-fun-person.md)
