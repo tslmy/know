@@ -12,9 +12,9 @@ description: Suitable for UPenn users.
 4. Click on the newly created project. You will be taken to the "survey design" interface.
 5. Edit the Default Question Block to show some welcome text.
 
-![Give the project a name, say &quot;10-K&quot;. Click Create Project.](../.gitbook/assets/image%20%2812%29.png)
+![Give the project a name, say &quot;10-K&quot;. Click Create Project.](../../.gitbook/assets/image%20%2812%29.png)
 
-![Edit the Default Question Block to show some welcome text.](../.gitbook/assets/image%20%281%29.png)
+![Edit the Default Question Block to show some welcome text.](../../.gitbook/assets/image%20%281%29.png)
 
 **Import Questions.**
 
@@ -74,7 +74,7 @@ If this happens to be the case, go back to [Control Panel](https://upenn.co1.qua
 7. Save.
 8. Back to our survey design page. Click `Tools` &gt; `Import/Export` &gt; `Import Survey…`. Select the QSF file. Click `Import`. You will see new survey project uploaded and opened up.
 
-![Locate \`&quot;FlowID&quot;: &quot;FL\_1&quot;,\`](../.gitbook/assets/image%20%289%29.png)
+![Locate \`&quot;FlowID&quot;: &quot;FL\_1&quot;,\`](../../.gitbook/assets/image%20%289%29.png)
 
 **Make sure we can trace our mturkers across Qualtrics and Mturk.**
 

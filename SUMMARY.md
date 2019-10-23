@@ -13,7 +13,9 @@
 
 * [Types of Parallel Computing](data-science/types-of-parallel-computing.md)
 * [🐋 How to Install auto-sklearn on macOS 10.14~10.15](data-science/how-to-install-auto-sklearn-on-macos-10.14-10.15.md)
-* [Prepare Qualtrics Survey With Batch-Populated Questions](data-science/prepare-qualtrics-survey-with-batch-populated-questions.md)
+* [Surveys and Questionnaires](data-science/surveys-and-questionnaires/README.md)
+  * [Prepare Qualtrics Survey With Batch-Populated Questions](data-science/surveys-and-questionnaires/prepare-qualtrics-survey-with-batch-populated-questions.md)
+  * [On Collecting WeChat Chat Logs from End Users](data-science/surveys-and-questionnaires/on-collecting-wechat-chat-logs-from-end-users.md)
 * [Text Mining](data-science/text-mining/README.md)
   * [On Clustering Documents Unsupervisedly](data-science/text-mining/clustering-documents-unsupervisedly.md)
   * [💬 Char/Word/Sent/Doc Embedding Models](data-science/text-mining/char-word-sent-doc-embedding-models.md)
