@@ -12,7 +12,7 @@ Each New Years Day during my middle school era, I would review what I have done 
 
 Recently, I have read about [Julia Evans' suggestion of keeping a "brag document"](https://jvns.ca/blog/brag-documents/) at work. Sounds like fun! 
 
-For privacy concerns, I will focus on **skill level-ups** and **achievements** like such in this document, instead of jotting down every life event. 
+For privacy concerns, I will focus on **kills** and **achievements** like such in this document, instead of jotting down every life event. 
 
 Here we go.
 
