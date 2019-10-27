@@ -30,6 +30,7 @@
 * [📝 How I Organize my Notes with Apps](other-tech-stuff/how-i-organize-my-notes-with-apps.md)
 * [Setting Up My Own VPN for Work](other-tech-stuff/setting-up-my-own-vpn-for-work.md)
 * [⌨️ Shortcut Keys on my Computer](other-tech-stuff/shortcut-keys-on-my-computer.md)
+* [Set Up Restic for backups using Google Drive](other-tech-stuff/set-up-restic-for-backups-using-google-drive.md)
 
 ## Life Experiences <a id="summary-and-review"></a>
 

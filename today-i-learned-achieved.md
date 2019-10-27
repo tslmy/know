@@ -4,15 +4,13 @@ description: A brag document of myself.
 
 # Today I Learned/Achieved
 
-
-
 ![](.gitbook/assets/image%20%285%29.png)
 
-Each New Years Day during my middle school era, I would review what I have done for the past year, trying my best to summarize into one sentence for each day, and post online. With life complexity shooting up, I stopped making annual reviews. 
+Each New Years Day during my middle school era, I would review what I have done for the past year, trying my best to summarize into one sentence for each day, and post online. With life complexity shooting up, I stopped making annual reviews.
 
-Recently, I have read about [Julia Evans' suggestion of keeping a "brag document"](https://jvns.ca/blog/brag-documents/) at work. Sounds like fun! 
+Recently, I have read about [Julia Evans' suggestion of keeping a "brag document"](https://jvns.ca/blog/brag-documents/) at work. Sounds like fun!
 
-For privacy concerns, I will focus on **kills** and **achievements** like such in this document, instead of jotting down every life event. 
+For privacy concerns, I will focus on **skills** and **achievements** like such in this document, instead of jotting down every life event.
 
 Here we go.
 
@@ -24,6 +22,4 @@ Here we go.
 * **190901**: Made another short melody, [Me Gegavere](https://soundcloud.com/tslmy/me-gegavere), with [Reason Compact](https://apps.apple.com/us/app/reason-compact-make-music/id1253419004).
 * **190904**: Built my first Docker compose file on top of [influxdata/sandbox](https://github.com/influxdata/sandbox).
 * **190906**: Figured out how to install `auto-sklearn` on macOS for the recent versions.
-
-
 
