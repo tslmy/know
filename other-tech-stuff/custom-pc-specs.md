@@ -1,8 +1,18 @@
----
-description: Takes note of the specifications of PCs I've built.
----
+# 💻 Computer Hardware Setups
 
-# 💻 Custom PC Specs
+## Main Rig
+
+![](../.gitbook/assets/img_97d413f06811-1.jpeg)
+
+* [MacBook \(Retina, 12-inch, Early 2015\)](https://support.apple.com/kb/SP712?locale=en_US) \(~USD$986.63 today\)
+* [Satechi Aluminum Multi-Port Adapter V2](https://www.amazon.com/gp/product/B075FW7H5J/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) \($79.99\). Things connected with it to MacBook:
+  * [Dell UltraSharp 25 Monitor \(U2518D\)](https://www.dell.com/en-us/work/shop/dell-ultrasharp-25-monitor-u2518d/apd/210-amll/monitors-monitor-accessories) \($288.95\)
+  * [GIGABYTE Mechanical Cherry Blue Keyboard \(GK-Force K83 Blue\)](https://www.gigabyte.com/us/Keyboard/FORCE-K83#kf) \($49.99\)
+  * [Neeyer USB 3.0 SATA III Hard Drive Adapter Cable ](https://www.amazon.com/Drive-Adapter-Cable-Support-UASP-20cm/dp/B07FDTY299)\($6.99\)
+    * [Samsung SSD 860 EVO 1TB 2.5 Inch SATA III Internal SSD \(MZ-76E1T0B/AM\)](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-860-evo-2-5--sata-iii-1tb-mz-76e1t0b-am/) \($139.99\)
+* [Microsoft Designer Bluetooth Mouse](https://www.microsoft.com/accessories/en-us/products/mice/designer-bluetooth-mouse/7n5-00001) \($62.98\)
+
+Total: $1,615.52
 
 ## Middle-School-Era PC
 

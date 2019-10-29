@@ -26,7 +26,7 @@
 ## Other Tech Stuff
 
 * [🐧 Switching From macOS To Linux](other-tech-stuff/switching-from-macos-to-linux.md)
-* [💻 Custom PC Specs](other-tech-stuff/custom-pc-specs.md)
+* [💻 Computer Hardware Setups](other-tech-stuff/custom-pc-specs.md)
 * [📝 How I Organize my Notes with Apps](other-tech-stuff/how-i-organize-my-notes-with-apps.md)
 * [Setting Up My Own VPN for Work](other-tech-stuff/setting-up-my-own-vpn-for-work.md)
 * [⌨️ Shortcut Keys on my Computer](other-tech-stuff/shortcut-keys-on-my-computer.md)
@@ -34,6 +34,7 @@
 
 ## Life Experiences <a id="summary-and-review"></a>
 
+* [Being Minimalistic and Mobile](summary-and-review/being-minimalistic-and-mobile.md)
 * [🎓 Academic Fields I've Studied / Researched](summary-and-review/academic-fields-ive-studied-researched.md)
 * [📮 Postcrossing](summary-and-review/postcrossing.md)
 * [📚 Book Reviews](summary-and-review/book-reviews.md)
