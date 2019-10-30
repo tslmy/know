@@ -24,7 +24,7 @@ I'm _planning_ on the following purchases:
 
 In early 2016, I bought a [Herschel City Backpack](https://herschel.com/shop/backpacks/city-backpack-mid-volume?v=10486-03019-OS) while sightseeing with my mom in Toronto. It was stylish and convenient, but too small in volume to accommodate all my carryings as an undergrad.
 
-![Me and my City Backpack](../.gitbook/assets/screen-shot-2019-10-18-at-16.20.05.png)
+![Me and my City Backpack](../../.gitbook/assets/screen-shot-2019-10-18-at-16.20.05.png)
 
 In mid-2016, I bought a [Herschel Pop Quiz](https://herschel.com/shop/backpacks/pop-quiz-backpack) off a classmate for CAD$15. After 3 years of daily use, the backpack got extremely worn off. Sadly, I had to ditch it in September 2019.
 
@@ -48,7 +48,7 @@ The future came with an unexpected turn, though. My daily commute to work nowada
 
 My **money clip** was repurposed from a [Modori Traveler's notebook pen holder](https://www.amazon.com/Midori-Travelers-notebook-holder-Brown/dp/B001D79A96). I always wrap a ID card with the bank notes. I never put my ID card together with a bank card.
 
-![The money clip. The currency is called Chinese Yuan, once popular before mobile payment took off.](../.gitbook/assets/img_4417%20%281%29.JPG)
+![The money clip. The currency is called Chinese Yuan, once popular before mobile payment took off.](../../.gitbook/assets/img_4417%20%281%29.JPG)
 
 For this reason, I have also a **wallet** in my backpack that holds bank cards \(credit cards, debit cards, etc.\) and extra cash. Very often I also have loyalty cards there. 
 
@@ -64,5 +64,5 @@ The third mattress I own was bought off a fellow Googler, Z, for $208. By coinci
 
 I'm a loyal UNIQLO frequenter. Guess that's [why my date weren't always impressed](https://japantoday.com/category/features/lifestyle/'he-wore-uniqlo-to-meet-me!'-japanese-woman-shares-petty-bad-date-story). 
 
-![Me in UNIQLO](../.gitbook/assets/img_9769.jpg)
+![Me in UNIQLO](../../.gitbook/assets/img_9769.jpg)
 

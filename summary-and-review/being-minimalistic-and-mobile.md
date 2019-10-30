@@ -19,7 +19,7 @@ I'm glad that, foreseeing my departure, I budgeted as little as possible \($200\
 
 > No investment, no attachment.
 
-_Related article:_ [_Things I Own_](things-i-own.md)\_\_
+_Related article:_ [_Things I Own_](things-i-own/)\_\_
 
 
 
