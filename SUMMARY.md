@@ -43,6 +43,7 @@
 * [😂 How to Be A Fun Person](summary-and-review/how-to-be-a-fun-person.md)
 * [Things I Own](summary-and-review/things-i-own/README.md)
   * [Bikes I Owned](summary-and-review/things-i-own/bikes-i-owned.md)
+  * [Ear-/headphones I Owned](summary-and-review/things-i-own/ear-headphones-i-owned.md)
   * [Coffee Brewing Equipments](summary-and-review/things-i-own/coffee-brewing-equipments.md)
 * [Managing Habits](summary-and-review/managing-habits.md)
 
