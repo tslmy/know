@@ -4,7 +4,7 @@ description: >-
   very often.
 ---
 
-# Things I Own
+# Owning: Things I Own
 
 ## Digital Gadgets
 

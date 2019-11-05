@@ -1,4 +1,4 @@
-# Bikes I Owned
+# 🚲 Bikes I Owned
 
 I love biking, and I love the idea of _stationless bike sharing \(SBS\)_. For example, OFO was a great option for commuting when I was doing my undergrad in Beijing. After getting spoiled by the [low cost of SBS services](https://knowledge.wharton.upenn.edu/article/why-bikecycles-are-making-a-huge-comeback-in-china/) in China, I had virtually no budget for buying bike of my own when moved to North America \(thrice\).
 

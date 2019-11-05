@@ -4,7 +4,7 @@ description: >-
   filter.
 ---
 
-# Coffee Brewing Equipments
+# ☕️ Coffee Brewing Equipments
 
 Drinking coffee everyday does not necessarily mean you are a busy person; drinking _too much_ does. I was the latter case. Despite being short on time, I seeked higher quality than Starbucks and Keurig. Brewing my own coffee was the way to go.
 

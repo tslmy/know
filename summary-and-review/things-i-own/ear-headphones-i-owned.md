@@ -1,4 +1,4 @@
-# Ear-/headphones I Owned
+# 🎧 Ear-/headphones I Owned
 
 ## My first pair of earbuds: Sennheiser MX500 Blue
 

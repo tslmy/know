@@ -34,17 +34,21 @@
 
 ## Life Experiences <a id="summary-and-review"></a>
 
-* [Being Minimalistic and Mobile](summary-and-review/being-minimalistic-and-mobile.md)
+* [Being: What I am](summary-and-review/being-what-i-am/README.md)
+  * [Being a software developer](summary-and-review/being-what-i-am/being-a-software-developer.md)
+  * [Being Minimalistic and Mobile](summary-and-review/being-what-i-am/being-minimalistic-and-mobile.md)
+* [Owning: Things I Own](summary-and-review/things-i-own/README.md)
+  * [🚲 Bikes I Owned](summary-and-review/things-i-own/bikes-i-owned.md)
+  * [🎧 Ear-/headphones I Owned](summary-and-review/things-i-own/ear-headphones-i-owned.md)
+  * [☕️ Coffee Brewing Equipments](summary-and-review/things-i-own/coffee-brewing-equipments.md)
 * [🎓 Academic Fields I've Studied / Researched](summary-and-review/academic-fields-ive-studied-researched.md)
-* [📮 Postcrossing](summary-and-review/postcrossing.md)
+* [Doing: Stuff I do](summary-and-review/doing-stuff-i-do/README.md)
+  * [📚 Reading](summary-and-review/doing-stuff-i-do/reading.md)
+  * [📮 Postcrossing](summary-and-review/doing-stuff-i-do/postcrossing.md)
 * [📚 Book Reviews](summary-and-review/book-reviews.md)
 * [🏘 Flat/House Hunting in Mountain View](summary-and-review/flat-house-hunting-in-mountain-view.md)
 * [Filing Tax Return in the States](summary-and-review/filing-tax-return-in-the-states.md)
 * [😂 How to Be A Fun Person](summary-and-review/how-to-be-a-fun-person.md)
-* [Things I Own](summary-and-review/things-i-own/README.md)
-  * [Bikes I Owned](summary-and-review/things-i-own/bikes-i-owned.md)
-  * [Ear-/headphones I Owned](summary-and-review/things-i-own/ear-headphones-i-owned.md)
-  * [Coffee Brewing Equipments](summary-and-review/things-i-own/coffee-brewing-equipments.md)
 * [Managing Habits](summary-and-review/managing-habits.md)
 
 ## 中文 \(Chinese\)
