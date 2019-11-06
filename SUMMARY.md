@@ -50,6 +50,7 @@
 * [Filing Tax Return in the States](summary-and-review/filing-tax-return-in-the-states.md)
 * [😂 How to Be A Fun Person](summary-and-review/how-to-be-a-fun-person.md)
 * [Managing Habits](summary-and-review/managing-habits.md)
+* [I present to you, life simulation 1.0](summary-and-review/i-present-to-you-life-simulation-1.0.md)
 
 ## 中文 \(Chinese\)
 
