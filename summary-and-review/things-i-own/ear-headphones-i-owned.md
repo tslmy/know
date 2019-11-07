@@ -12,6 +12,14 @@ In my freshman year, a roommate lent me his MDR-Q38LW after my old daily drivers
 
 They had excellent sound qualities as you would expect from Sony and a tethered device, and they were not at all prone to tangling, because the wires were retractable with one click. That little touch of mechanical mechanism in an electronic device brought so much fun in the age of 2014.
 
+## Beats Studio 2
+
+I picked them up beside a recycle bin. The earpads were badly torn, so I bought a pair of new ones off Amazon for $10. The new earpads were, of course, aftermarket, and they were affixed to the headphones via double-sided adhesive tapes, rather than folding and anchoring into the plastic caps themselves. After some careful sanitizing \(it was beside garbages, anyways\), the headphones were back to usable state.
+
+They were my first pair of active noise-cancelling \(ANC\) headphones. I was expecting to be astonished by the silence it could have brought, but the ANC was so bad that I was in fact disappointed. I suspect that the adhesive tapes introduced air gaps that compromised the headphones' airtightness, on which ANC relied on.
+
+Curious what the newest technology could offer, I bought a pair of Sony WH-1000XM3 headphones in early 2019. 
+
 ## Apple Airpods
 
 In late 2017, I was unsure about where I can spent my first-ever paychecks in my life \(while completely ignoring the fact that my parents were still paying my rent and tuitions\), and Airpods then became one of my best impulse purchases.
@@ -24,5 +32,13 @@ I had these for 1.5 years and gave them to my father, who enjoyed them a lot.
 
 ## Apple Airpods Pro
 
+Recommended if you don't yet have earbuds or active noise cancellation earphones; Not recommended if you own either \(or both\) of those.
+
+As a former Airpods 1st gen user, I would say Airpods Pro are less elegant products. This is because, when you take them off too fast from your ear and accidentally rub its rubber part against your antihelix, the rubber dome is prone to getting folded up. A pair of foam-based dome may help mitigating this problem.
+
 ## Sony WH-1000XM3
+
+\[TODO\]
+
+
 

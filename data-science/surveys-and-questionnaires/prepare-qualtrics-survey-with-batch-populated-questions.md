@@ -42,9 +42,7 @@ If this happens to be the case, go back to [Control Panel](https://upenn.co1.qua
 3. Locate
 
    ```javascript
-   "Type": "Root",
-   "FlowID": "FL_1",
-   "Flow": [
+   "Type": "Root","FlowID": "FL_1","Flow": [
    ```
 
 4. Cut & paste all `{"Type": "Standard", …, "FlowID": "FL_..."}` blocks under the `"Flow": […]` of the `{"Type": "BlockRandomizer", …}` .
@@ -60,15 +58,7 @@ If this happens to be the case, go back to [Control Panel](https://upenn.co1.qua
 6. Locate all `"QuestionType": "TE",` lines. Add the following snippet before the lines:
 
    ```javascript
-     "Validation":
-     {
-         "Settings":
-         {
-        "ForceResponse": "ON",
-        "ForceResponseType": "ON",
-        "Type": "None"
-         }
-     },
+     "Validation":  {      "Settings":      {     "ForceResponse": "ON",     "ForceResponseType": "ON",     "Type": "None"      }  },
    ```
 
 7. Save.

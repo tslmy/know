@@ -40,10 +40,7 @@ When preparing for a [tutorial for UPenn SEAS students](https://www.seas.upenn.e
 Depending on whether you installed certain Window Manager, `sudo` may or may not be already set up for you. You should probably fix this now:
 
 ```text
-su # and then enter root password
-apt-get install sudo
-usermod -aG sudo [YOUR LINUX USERNAME HERE]
-exit # back to normal user
+su # and then enter root passwordapt-get install sudousermod -aG sudo [YOUR LINUX USERNAME HERE]exit # back to normal user
 ```
 
 After reboot, you should have `sudo` access just like you usually would.
@@ -53,8 +50,7 @@ After reboot, you should have `sudo` access just like you usually would.
 I personally prefer `zsh` and its plugin manager `oh-my-zsh`. I had them installed in every Mac I own, so it's already an essential part to build a Mac-like experience for me:
 
 ```bash
-sudo apt install zsh git #install zsh and git
-sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)" # install oh-my-zsh
+sudo apt install zsh git #install zsh and gitsh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)" # install oh-my-zsh
 ```
 
 ### Syncing Preferences From macOS to Linux
@@ -82,8 +78,7 @@ Your settings should be put back to where they are on your Mac and kept sync, al
 Assuming your Time Capsule is at `192.168.1.1`, having two volumes shared, `Capsule` and `Backup`, add these lines to your `/etc/fstab`:
 
 ```text
-//192.168.1.1/Capsule /mnt/capsule cifs pass=[TIME CAPSULE PASSWORD HERE],file_mode=0777,dir_mode=0777,sec=ntlm 0 0
-//192.168.1.1/Backup /mnt/backup cifs pass=[TIME CAPSULE PASSWORD HERE],file_mode=0777,dir_mode=0777,sec=ntlm 0 0
+//192.168.1.1/Capsule /mnt/capsule cifs pass=[TIME CAPSULE PASSWORD HERE],file_mode=0777,dir_mode=0777,sec=ntlm 0 0//192.168.1.1/Backup /mnt/backup cifs pass=[TIME CAPSULE PASSWORD HERE],file_mode=0777,dir_mode=0777,sec=ntlm 0 0
 ```
 
 Remember to install `cifs`:
@@ -95,8 +90,7 @@ sudo apt-get install cifs-utils
 and make two new empty folders as mounting points:
 
 ```bash
-sudo mkdir -p /mnt/capsule
-sudo mkdir -p /mnt/backup
+sudo mkdir -p /mnt/capsulesudo mkdir -p /mnt/backup
 ```
 
 **via AFP — better compatibility with Time Capsule**
@@ -110,23 +104,13 @@ sudo apt-get install g++ libfuse-dev libreadline-dev libncurses5-dev git
 If conflict on `libselinux-dev` occurs, use `aptitude`:
 
 ```text
-sudo apt-get install aptitude
-sudo aptitude install libselinux-dev
-# use `.` key to natigate to a Solution that installs `libselinux-dev`. Accept it.
+sudo apt-get install aptitudesudo aptitude install libselinux-dev# use `.` key to natigate to a Solution that installs `libselinux-dev`. Accept it.
 ```
 
 Now actually install
 
 ```text
-sudo apt-get install g++ libgcrypt-dev libgmp3-dev libfuse-dev libreadline-dev libncurses5-dev git
-git clone https://github.com/simonvetter/afpfs-ng
-cd afpfs-ng/
-./configure --enable-gcrypt=/usr/lib && make && sudo make install && echo 'done!'
-sudo ldconfig # update the shared library cache
-
-sudo mkdir /mnt/capsule_afp
-sudo chmod 777 /mnt/capsule_afp
-mount_afp "afp://me:[TIME CAPSULE PASSWORD HERE]@192.168.1.1/Capsule" /mnt/capsule_afp # Time Capsule uses the dummy username `me` for AFP access with Volume .
+sudo apt-get install g++ libgcrypt-dev libgmp3-dev libfuse-dev libreadline-dev libncurses5-dev gitgit clone https://github.com/simonvetter/afpfs-ngcd afpfs-ng/./configure --enable-gcrypt=/usr/lib && make && sudo make install && echo 'done!'sudo ldconfig # update the shared library cachesudo mkdir /mnt/capsule_afpsudo chmod 777 /mnt/capsule_afpmount_afp "afp://me:[TIME CAPSULE PASSWORD HERE]@192.168.1.1/Capsule" /mnt/capsule_afp # Time Capsule uses the dummy username `me` for AFP access with Volume .
 ```
 
 #### Share Folders From And To A Mac
@@ -142,8 +126,7 @@ If you want your Linux machine to automatically mount some shared volumes on oth
 Notice that I used the `credentials` option here for better security. The `/home/lmy/.smbcredentials` is of the following format:
 
 ```text
-username=[UNIX USERNAME ON YOUR MAC]
-password=[PASSWORD ON YOUR MAC]
+username=[UNIX USERNAME ON YOUR MAC]password=[PASSWORD ON YOUR MAC]
 ```
 
 Remember to restrict access to this file by `chmod 600 ~/.smbcredentials`.
@@ -155,8 +138,7 @@ On your Linux, install `netatalk` via `sudo apt install netatalk`. After install
 Add these lines to `/etc/netatalk/`:
 
 ```text
-/mnt/capsule      options:tm      "Capsule via SMB"
-/mnt/backup             "USB HDD via SMB"
+/mnt/capsule      options:tm      "Capsule via SMB"/mnt/backup             "USB HDD via SMB"
 ```
 
 Then restart the `netatalk` service:
@@ -208,15 +190,13 @@ I use Anaconda \(Miniconda, actually\) more often than I brush my teeth. After d
 #### Node.JS
 
 ```text
-# Install NVM:
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+# Install NVM:curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
 ```
 
 Add these lines to `~/.zshrc`:
 
 ```text
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+export NVM_DIR="$HOME/.nvm"[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
 ```
 
 Install Node:
@@ -230,19 +210,7 @@ nvm install node
 I'm using [linux-dash](https://github.com/afaqurk/linux-dash):
 
 ```text
-## 1. clone the repo
-git clone --depth 1 https://github.com/afaqurk/linux-dash.git
-
-## 2. go to the cloned directory
-cd linux-dash/app/server
-
-## install dependencies
-npm install --production
-
-## start linux-dash (on port 80 by default; may require sudo)
-## You may change this with the `LINUX_DASH_SERVER_PORT` environment variable (eg. `LINUX_DASH_SERVER_PORT=8080 node server`)
-## or provide a --port flag to the command below
-LINUX_DASH_SERVER_PORT=8864 node index.js
+## 1. clone the repogit clone --depth 1 https://github.com/afaqurk/linux-dash.git## 2. go to the cloned directorycd linux-dash/app/server## install dependenciesnpm install --production## start linux-dash (on port 80 by default; may require sudo)## You may change this with the `LINUX_DASH_SERVER_PORT` environment variable (eg. `LINUX_DASH_SERVER_PORT=8080 node server`)## or provide a --port flag to the command belowLINUX_DASH_SERVER_PORT=8864 node index.js
 ```
 
 or `htop`:
