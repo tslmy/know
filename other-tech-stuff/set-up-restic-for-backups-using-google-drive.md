@@ -3,7 +3,8 @@
 Although official documentation instructed to use `curl https://rclone.org/install.sh | sudo bash` for installing `rclone`, since `rclone` is available view `brew`, I figured that I'll use `brew` instead, for the sake of mroe centralized storage.
 
 ```bash
-brew install rclone resticrclone config
+brew install rclone restic
+rclone config
 ```
 
 We need to configure Google Drive to work with `rclone`. This can be done by following the official instructions found [here](https://rclone.org/drive/#making-your-own-client-id):
@@ -41,6 +42,7 @@ restic -r rclone:[rcloud config name]:restic-backups/macbook/ backup ~/Backups
 After a backup, you should be able to mount the storage to a local directory:
 
 ```text
-brew cask install osxfuse # if you haven't done this alreadyrestic -r rclone:[rcloud config name]:restic-backups/macbook/ mount ~/mnt
+brew cask install osxfuse # if you haven't done this already
+restic -r rclone:[rcloud config name]:restic-backups/macbook/ mount ~/mnt
 ```
 

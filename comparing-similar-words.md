@@ -15,7 +15,10 @@ molecular orbitals \(MOs\), aromaticity
 #### How to utilize the Polygon Rule and Huckel's Rule in practice:
 
 ```text
-For a 6 annulene:    By Polygon Rule: it has floorToOddNumber(6/2) => [3] bonding MOs.     By Huckel's Rule: 6 = 4*[1] + 2 => suggests AROMATIC    ([3] - 1)/2 = [1]
+For a 6 annulene:
+    By Polygon Rule: it has floorToOddNumber(6/2) => [3] bonding MOs. 
+    By Huckel's Rule: 6 = 4*[1] + 2 => suggests AROMATIC
+    ([3] - 1)/2 = [1]
 ```
 
 ※ remember that annulene is only applicable to the annulenes.
@@ -25,25 +28,36 @@ For a 6 annulene:    By Polygon Rule: it has floorToOddNumber(6/2) => [3] bondin
 Consider cyclohexane \(C6H12\):
 
 ```text
-    Originally, each carbon atom has 2 p e-'s - that's 6*2 = 12 pi e-'s in total.    According to the Polygon Rule: Its "energy diagram" should be a hexagon, opening 6*2 spots for e-'s to settle in.    ∵12 pi e-'s = 12 spots in the polygon ∴The polygon should appear "all occupied", including all the bonding and anti-bonding "MOs".    We noticed that the cyclohexane has no pi bond. (Does "anti-bonding" mean "canceling the bonding effect of the bonding MOs"?)
+    Originally, each carbon atom has 2 p e-'s - that's 6*2 = 12 pi e-'s in total.
+    According to the Polygon Rule: Its "energy diagram" should be a hexagon, opening 6*2 spots for e-'s to settle in.
+    ∵12 pi e-'s = 12 spots in the polygon ∴The polygon should appear "all occupied", including all the bonding and anti-bonding "MOs".
+    We noticed that the cyclohexane has no pi bond. (Does "anti-bonding" mean "canceling the bonding effect of the bonding MOs"?)
 ```
 
 Now consider the \[6\]annulene \(a.k.a. "benzene"\):
 
 ```text
-    One of the requirements for Huckel's Rule suggests that the molecule should have a continuous cyclic repetition of pattern "C-C=C", which actually reduces 1 e- from each C.    So, the total amount of pi e-'s in benzene = 6*2 - 6*1 = 6    It's just enough to fill up all the 3 bonding MOs.    (We observed 3 pi bonds in the benzene molecule. Does this suggests a "bonding MO" represents a pi bond in the molecule?)
+    One of the requirements for Huckel's Rule suggests that the molecule should have a continuous cyclic repetition of pattern "C-C=C", which actually reduces 1 e- from each C.
+    So, the total amount of pi e-'s in benzene = 6*2 - 6*1 = 6
+    It's just enough to fill up all the 3 bonding MOs.
+    (We observed 3 pi bonds in the benzene molecule. Does this suggests a "bonding MO" represents a pi bond in the molecule?)
 ```
 
 Now consider cyclohexa-1,3-diene \(benzene with one C=C bond reduced by H atoms\):
 
 ```text
-    2 additional pi e-'s compared to benzene    [Polygon Rule] the 2 additional e-'s are placed separately on the 2 degenerate LUMOs in the benzene diagram. Imagine these 2 e-'s are placed together in one of these LUMOs - an anti-aromatic MO is filled, so the molecule structure should have one pi bond less than benzene - and it truly is so.    [Huckel's Rule] 8 = 2*4 ===suggests===> anti-aromacitiy <===because that=== we are having 2 MOs with only 1 e- in each (can be proven by Polygon Rule), which makes up a "di-radical" structure.
+    2 additional pi e-'s compared to benzene
+    [Polygon Rule] the 2 additional e-'s are placed separately on the 2 degenerate LUMOs in the benzene diagram. Imagine these 2 e-'s are placed together in one of these LUMOs - an anti-aromatic MO is filled, so the molecule structure should have one pi bond less than benzene - and it truly is so.
+    [Huckel's Rule] 8 = 2*4 ===suggests===> anti-aromacitiy <===because that=== we are having 2 MOs with only 1 e- in each (can be proven by Polygon Rule), which makes up a "di-radical" structure.
 ```
 
 #### Conclusion
 
 ```text
-The bonding/anti-bonding of the MOs - gives the amount of pi bonds in the molecule (just atom-and-atom bonds; not "pi conjugated system"):    a filled bonding MO suggest one more pi bond        a filled anti-bonding MO suggest one less pi bond   The Aromaticity - all about the stability and reactive electrons:     anti-aromaticity: has lone e-'s. They are likely to escape/grab e-'s from other molecules (a.k.a. "reactive"), thus making it very hard for this molecule to stay itself (a.k.a. "unstable").    aromaticity: has no lone e-'s. Every pi e- are paired in the MOs ,leaving no e-'s wandering about and causing troubles. It's not likely that this molecule change its structure, thus it has a high stability.
+The bonding/anti-bonding of the MOs - gives the amount of pi bonds in the molecule (just atom-and-atom bonds; not "pi conjugated system"):
+    a filled bonding MO suggest one more pi bond        a filled anti-bonding MO suggest one less pi bond   The Aromaticity - all about the stability and reactive electrons: 
+    anti-aromaticity: has lone e-'s. They are likely to escape/grab e-'s from other molecules (a.k.a. "reactive"), thus making it very hard for this molecule to stay itself (a.k.a. "unstable").
+    aromaticity: has no lone e-'s. Every pi e- are paired in the MOs ,leaving no e-'s wandering about and causing troubles. It's not likely that this molecule change its structure, thus it has a high stability.
 ```
 
 ### Resonance and Inductive Effects

@@ -21,7 +21,28 @@ This is, however, not the most ideal solution if you already have a Python envri
 Make sure you have Homebrew installed.
 
 ```bash
-xcode-select --install # install command line toolsexport MACOSX_DEPLOYMENT_TARGET=10.14brew install swigbrew install gcc@8export CC=gcc-8# Build XGBoost (from <https://xgboost.readthedocs.io/en/latest/build.html#building-on-osx>):git clone --recursive https://github.com/dmlc/xgboostcd xgboost # The original tutorial didn't have thismkdir buildcd buildCXX=g++-8 cmake .. # I changed 8 to 9 and it also workedmake -j4# Move the compiled binary library to the directory where python-xgboost will look for it -- there's probably better ways to achieve this:mkdir ~/miniconda3/xgboost # Notice that I use `miniconda3` for managing packages.cp ../lib/libxgboost.dylib ~/miniconda3/xgboost# Clean up XGBoost installation:cd ../../rm -rf xgboost# Install other auto-sklearn dependencies:curl https://raw.githubusercontent.com/automl/auto-sklearn/master/requirements.txt | xargs -n 1 -L 1 pip install# Install auto-sklearn:pip install auto-sklearn --user
+xcode-select --install # install command line tools
+export MACOSX_DEPLOYMENT_TARGET=10.14
+brew install swig
+brew install gcc@8
+export CC=gcc-8
+# Build XGBoost (from <https://xgboost.readthedocs.io/en/latest/build.html#building-on-osx>):
+git clone --recursive https://github.com/dmlc/xgboost
+cd xgboost # The original tutorial didn't have this
+mkdir build
+cd build
+CXX=g++-8 cmake .. # I changed 8 to 9 and it also worked
+make -j4
+# Move the compiled binary library to the directory where python-xgboost will look for it -- there's probably better ways to achieve this:
+mkdir ~/miniconda3/xgboost # Notice that I use `miniconda3` for managing packages.
+cp ../lib/libxgboost.dylib ~/miniconda3/xgboost
+# Clean up XGBoost installation:
+cd ../../
+rm -rf xgboost
+# Install other auto-sklearn dependencies:
+curl https://raw.githubusercontent.com/automl/auto-sklearn/master/requirements.txt | xargs -n 1 -L 1 pip install
+# Install auto-sklearn:
+pip install auto-sklearn --user
 ```
 
 Not sure why, but `pandas` and/or `numpy` may fail to load after installing `auto-sklearn`. This can be fixed by upgrading these two modules:
