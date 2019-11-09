@@ -20,6 +20,14 @@ They were my first pair of active noise-cancelling \(ANC\) headphones. I was exp
 
 Curious what the newest technology could offer, I bought a pair of Sony WH-1000XM3 headphones in early 2019. 
 
+## Sony WH-1000XM3
+
+The WH-1000X M3 headphones offered state-of-the-art ANC and premium audio quality like Sony audio devices always do.
+
+That's not to say there weren't quirks I wish could have been improved, though. For one, the first batchs of products suffered from misfunctioning touchpads: When the weather gets cold and a wind blows over the right earcup, the headphones might mistake them as user inputs. I personally experienced this problem and had to have them replaced. That's why I ended up with two identical headphone cases, if you've seen my inventories.
+
+After sleeping in the backseats while my father drove my family through Tibetan trails during summer 2019, I broke the connecting pieces at the ends of the hairband. Although I fixtured them with duct tapes, strands of my hair always get stuck into those tiny slits when I take the headphones off. It was so irratating that I have not used them ever again after I got my Airpods Pro.
+
 ## Apple Airpods
 
 In late 2017, I was unsure about where I can spent my first-ever paychecks in my life \(while completely ignoring the fact that my parents were still paying my rent and tuitions\), and Airpods then became one of my best impulse purchases.
@@ -35,10 +43,6 @@ I had these for 1.5 years and gave them to my father, who enjoyed them a lot.
 Recommended if you don't yet have earbuds or active noise cancellation earphones; Not recommended if you own either \(or both\) of those.
 
 As a former Airpods 1st gen user, I would say Airpods Pro are less elegant products. This is because, when you take them off too fast from your ear and accidentally rub its rubber part against your antihelix, the rubber dome is prone to getting folded up. A pair of foam-based dome may help mitigating this problem.
-
-## Sony WH-1000XM3
-
-\[TODO\]
 
 
 
