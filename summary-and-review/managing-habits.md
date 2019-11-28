@@ -1,4 +1,4 @@
-# Managing Habits
+# 🔁 Managing Habits
 
 > _We are creatures of habit_ more than _we are creatures_ of change. -- _A.J. Darkholme_
 

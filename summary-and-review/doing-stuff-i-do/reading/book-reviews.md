@@ -4,6 +4,10 @@ description: 'https://www.goodreads.com/user/show/65767626-mingyang'
 
 # 📚 Book Reviews
 
+## Design Patterns: Elements of Reusable Object-Oriented Software
+
+Perhaps the first book in computer science I have finished back-to-back. Started working at the software company with no postsecondary degree in computer science, I often bump into certain technical terms in documentation and in comments that i do not understand. This book made several of such acquainted terms much clearer. I doubt how many patterns i would actually use in my work, considering that i do not \(yet\) work with neither C++ nor smalltalk, but i would definitely benefit from reading this book in terms of more efficient communications with my team peers.
+
 ## How To: Absurd Scientific Advice for Common Real-World Problems
 
 An excellent book of reduction, in the sense of computability theory, without any computability theory. 
