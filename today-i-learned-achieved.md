@@ -4,6 +4,8 @@ description: A brag document of myself.
 
 # Today I Learned/Achieved
 
+Update late 2019: Now that I started working in a company, things I learn on a daily basis seem all to be more or less confidential. This document might not be as frequently updated.
+
 ![](.gitbook/assets/image%20%285%29.png)
 
 Each New Years Day during my middle school era, I would review what I have done for the past year, trying my best to summarize into one sentence for each day, and post online. With life complexity shooting up, I stopped making annual reviews.
