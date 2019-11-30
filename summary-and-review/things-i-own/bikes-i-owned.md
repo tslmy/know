@@ -16,5 +16,14 @@ A colleague of mine, J, was kindly enough to have gifted his old bike, a Giant D
 
 ![](../../.gitbook/assets/05a7d4e4-67ab-463c-a204-0f57b1b8858b_1_105_c.jpeg)
 
+Notes on my next bike:
+
+* Models I like:
+  * [https://www.giant-bicycles.com/us/escape-1-disc-2020](https://www.giant-bicycles.com/us/escape-1-disc-2020)
+  * [https://www.giant-bicycles.com/us/bikes-revolt-2020](https://www.giant-bicycles.com/us/bikes-revolt-2020)
+* Where to buy:
+  * [https://www.bikeconnection.net/product-list/road-1001/?rb\_pr=750-999.99](https://www.bikeconnection.net/product-list/road-1001/?rb_pr=750-999.99)
+  * [https://bicyclewarehouse.com/search?type=product&q=REVOLT\*](https://bicyclewarehouse.com/search?type=product&q=REVOLT*)
+
 The future came with an unexpected turn, though. My daily commute to work nowadays involves a 12 min walk, which is less than pleasant for early winter mornings, but too trivial for a bike. As a middle ground, I bought a kick scooter \(a [Razor A6](https://www.razor.com/products/kick-scooters/a6-scooter/).\) I found out that I can ride it \(as long as I stay slow and careful\) inside of Google's buildings, which made trips to microkitchens a breeze. I wonder if I would need another bike at all living in bay area. 
 

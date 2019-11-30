@@ -25,6 +25,7 @@
 
 ## Other Tech Stuff
 
+* [Repurposing an iPad as a Home Server](other-tech-stuff/repurposing-an-ipad-as-a-home-server.md)
 * [🐧 Switching From macOS To Linux](other-tech-stuff/switching-from-macos-to-linux.md)
 * [💻 Computer Hardware Setups](other-tech-stuff/custom-pc-specs.md)
 * [📝 How I Organize my Notes with Apps](other-tech-stuff/how-i-organize-my-notes-with-apps.md)
