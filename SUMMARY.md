@@ -25,13 +25,13 @@
 
 ## Other Tech Stuff
 
-* [Repurposing an iPad as a Home Server](other-tech-stuff/repurposing-an-ipad-as-a-home-server.md)
 * [🐧 Switching From macOS To Linux](other-tech-stuff/switching-from-macos-to-linux.md)
 * [💻 Computer Hardware Setups](other-tech-stuff/custom-pc-specs.md)
 * [📝 How I Organize my Notes with Apps](other-tech-stuff/how-i-organize-my-notes-with-apps.md)
 * [Setting Up My Own VPN for Work](other-tech-stuff/setting-up-my-own-vpn-for-work.md)
 * [⌨️ Shortcut Keys on my Computer](other-tech-stuff/shortcut-keys-on-my-computer.md)
 * [Set Up Restic for backups using Google Drive](other-tech-stuff/set-up-restic-for-backups-using-google-drive.md)
+* [Ming's Backyard: A teaching material for Girls Who Code Club, Millbrae \(Dec. 7\)](other-tech-stuff/mings-backyard-a-teaching-material-for-girls-who-code-club-millbrae-dec.-7.md)
 
 ## Life Experiences <a id="summary-and-review"></a>
 

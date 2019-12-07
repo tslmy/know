@@ -18,3 +18,9 @@ I will keep a list of talks that I deem worth listening to here.
 
 I enjoyed Tom Scott's YouTube channel for being educational, mildly entertaining, and best-he-can-do fact-checked. The last bit of description might seem odd to you. If that is the case, you should watch this talk: It is all Tom Scott convincing to not trust him.
 
+## Effective Speaking in Spontaneous Situations - Matt Abrahams
+
+{% embed url="https://www.youtube.com/watch?v=HAnw168huqA&list=PLrD4-4LRt40KvZHlvNch5Nbu5gPzTfsNw&index=2&t=0s" %}
+
+Title's different. Not a big deal. This talk is full of interactive games that are suitable as team-bonding/ice-breaking activities, other than being inspiring.
+
