@@ -49,6 +49,10 @@ During that year, I also received a free mattress from a visiting student, D, wh
 
 The third mattress I own was bought off a fellow Googler, Z, for $208. By coincidence, Z got a refund for the seller, felt bad for keeping my $208, and Venmo-ed me back that amount. I ended up with another free mattress, as well as another friend. 
 
+Z wanted to get rid of his mattress because he thought it was too soft, which [might induce backaches](https://www.us-mattress.com/will-a-soft-mattress-hurt-my-back.html). Indeed, my upper back hurt so much after spending a month on that mattress, so much so that I slept on the ground for about a week before my new mattress arrived. This new mattress felt much better, and it was also the first mattress that I purchased ever. 
+
+Although that was my first mattress purchase, I did not research much into which mattress to buy before placing the order on Amazon. This might be a wrong move, considering that [1/3 of our life is spent on a mattress](https://daisylinden.com/mistakes-people-make-when-buying-a-mattress/), but I was in a mindset that [I would like to invest as little as possible into immobile goods](../being-what-i-am/being-minimalistic-and-mobile.md).
+
 ## Wears
 
 I'm a loyal UNIQLO frequenter. Guess that's [why my date weren't always impressed](https://japantoday.com/category/features/lifestyle/'he-wore-uniqlo-to-meet-me!'-japanese-woman-shares-petty-bad-date-story). 
