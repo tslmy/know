@@ -4,7 +4,7 @@ description: 'Disclosed for potential roommate-hunting... okay, this sounds weir
 
 # 🏘 Flat/House Hunting in Mountain View
 
-![https://unsplash.com/photos/O9l6W-nofj0](../.gitbook/assets/image.png)
+![https://unsplash.com/photos/O9l6W-nofj0](../.gitbook/assets/image%20%281%29.png)
 
 * Possible coices:
   * [https://www.yelp.com/biz/the-meadows-apartments-sunnyvale](https://www.yelp.com/biz/the-meadows-apartments-sunnyvale)
