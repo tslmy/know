@@ -34,6 +34,7 @@
 * [Ming's Backyard: A teaching material for Girls Who Code Club, Millbrae \(Dec. 7\)](other-tech-stuff/mings-backyard-a-teaching-material-for-girls-who-code-club-millbrae-dec.-7.md)
 * [Notes on how to write a book with LyX](other-tech-stuff/notes-on-how-to-write-a-book-with-lyx.md)
 * [Noogler 100: So you accepted Google's offer; what now?](other-tech-stuff/noogler-100-so-you-accepted-googles-offer-what-now.md)
+* [Notes on testing Polymer elements with Jasmine](other-tech-stuff/notes-on-testing-polymer-elements-with-jasmine.md)
 
 ## Life Experiences <a id="summary-and-review"></a>
 
