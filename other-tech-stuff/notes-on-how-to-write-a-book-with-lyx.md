@@ -1,6 +1,6 @@
 # Notes on how to write a book with LyX
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 ## Setup
 

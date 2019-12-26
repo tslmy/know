@@ -6,6 +6,14 @@ description: Compare words that are similar and may be confused with each other.
 
 ![https://unsplash.com/photos/SQM0sS0htzw](.gitbook/assets/image%20%283%29.png)
 
+## Tech
+
+### Parameter, Configuration, Argument
+
+* Parameter: to a function
+* Configuration: to an application
+* Argument: to a CLI command
+
 ## Science
 
 ### Polygon Rule, Huckel's Rule, bonding and antibonding

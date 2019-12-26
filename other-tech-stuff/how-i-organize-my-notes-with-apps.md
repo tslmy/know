@@ -6,7 +6,7 @@ description: 'Describes how I take, store, and edit various notes.'
 
 ## How Notes & Writings Can Be Categorized
 
-![Classifications of my writings &amp; notes, and where to put them.](../.gitbook/assets/image%20%2810%29.png)
+![Classifications of my writings &amp; notes, and where to put them.](../.gitbook/assets/image%20%289%29.png)
 
 | Type | Updatable? | How Refined? | Can Made Public? | How valuable to others? |
 | :--- | :--- | :--- | :--- | :--- |
