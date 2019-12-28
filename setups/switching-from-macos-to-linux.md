@@ -2,7 +2,7 @@
 description: For archival purposes only; I moved back to macOS eventually.
 ---
 
-# 🐧 Switching From macOS To Linux
+# 🐧 Switching from macOS to Linux
 
 My workload has finally escalated to a stage where my MacBook can't suffice. Unfortunately, as an international student, I found my budget suffocatingly tight when it comes to purchasing another computer -- a third Mac is definitely out of the question. In fact, another laptop also won't be ideal -- I could really use a more performance-focused machine at home that I could just SSH into when needed. After some digging, I built my first full-size desktop PC in North America. It is time to incorporate it to the Apple ecosystem that I'm already familiar with.
 

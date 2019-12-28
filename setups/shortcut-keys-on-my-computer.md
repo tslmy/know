@@ -1,4 +1,4 @@
-# ⌨️ Shortcut Keys on my Computer
+# ⌨️ Shortcut Keys on my Mac
 
 With `command+v` set to pasting, as default on macOS, I set `shift+command+v` as clipboard history using [Clipy](https://github.com/Clipy/Clipy). The additional `shift` key requires your pinky.
 

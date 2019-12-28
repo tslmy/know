@@ -15,7 +15,7 @@ Let's supports if a homeowner -- no matter how minimalist they are -- had to lea
 
 This was exactly a situation I had to face. In Spring 2019, I had to leave the US for a conference trip to Germany. My student visa to the US was already expired\[^1\], so I had to go back to China after the conference. It meant that I had to fill up my two luggages with my most valuable belongings. Real-life knapsack problem!
 
-I'm glad that, foreseeing my departure, I budgeted as little as possible \($200\) when building [my desktop computer in Philadelphia](../../other-tech-stuff/custom-pc-specs.md): I'll be more than happy to toss it into the recycle bin when I left the US\[^2\]. This mindset of mine can be summarized as: 
+I'm glad that, foreseeing my departure, I budgeted as little as possible \($200\) when building [my desktop computer in Philadelphia](../../setups/custom-pc-specs.md): I'll be more than happy to toss it into the recycle bin when I left the US\[^2\]. This mindset of mine can be summarized as: 
 
 > No investment, no attachment.
 

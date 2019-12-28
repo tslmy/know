@@ -1,4 +1,4 @@
-# Set Up Restic for backups using Google Drive
+# Set up Restic for backups using Google Drive
 
 Although official documentation instructed to use `curl https://rclone.org/install.sh | sudo bash` for installing `rclone`, since `rclone` is available view `brew`, I figured that I'll use `brew` instead, for the sake of mroe centralized storage.
 

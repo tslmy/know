@@ -2,7 +2,7 @@
 description: 'NOT for bypassing censorship, etc.'
 ---
 
-# Setting Up My Own VPN for Work
+# 🌐 Set Up My Own VPN
 
 **Setting up a VPN.** During my work, there are often times I need remote access to my computers behind firewalls and/or routers. I used to enjoy _LogMeIn Hamachi_ \(HMC\), but that app \(1\) appears to have died and \(2\) does not support latest macOS releases. For these two reasons, I'm switching to [ZeroTier One](https://www.zerotier.com/) \(0T1\). 0T1 allows for up to 100 connected devices per network, which is a huge plus compared to the 5-device limit on HMC.
 

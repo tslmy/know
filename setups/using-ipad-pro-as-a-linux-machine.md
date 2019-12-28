@@ -2,7 +2,7 @@
 description: Work in progress.
 ---
 
-# Using iPad pro as a Linux machine
+# iPad pro as a Linux machine
 
 I bought my iPad mainly for note-taking during classes. Now that I have graduated, my iPad has been collecting dust ever since. Recently, I learned about this new open-source project that is essentially an Alpine Linux emulator on iOS, [iSH](https://github.com/tbodt/ish). I'm exploring possibilities of using iPad pro as a daily driver.
 

@@ -9,6 +9,12 @@
 * [Finance Jargons](business-economics-accounting-and-finance/finance-jargons.md)
 * [Types of Assets \(Finance\)](business-economics-accounting-and-finance/types-of-assets-finance.md)
 
+## Other Tech Topics
+
+* [Notes on testing Polymer elements with Jasmine](other-tech-topics/notes-on-testing-polymer-elements-with-jasmine.md)
+* [Noogler 100: So you accepted Google's offer; what now?](other-tech-topics/noogler-100-so-you-accepted-googles-offer-what-now.md)
+* [Ming's Backyard: A teaching material for Girls Who Code Club, Millbrae \(Dec. 7\)](other-tech-topics/mings-backyard-a-teaching-material-for-girls-who-code-club-millbrae-dec.-7.md)
+
 ## Data Science
 
 * [Types of Parallel Computing](data-science/types-of-parallel-computing.md)
@@ -23,19 +29,16 @@
   * [☕ Explaining Heatmap Estimation with CNN, Metaphorically](data-science/neural-networks/explaining-heatmap-estimation-with-cnn-metaphorically.md)
   * [Optimizers For Neural Networks](data-science/neural-networks/optimizers-for-neural-networks.md)
 
-## Other Tech Stuff
+## Setups
 
-* [🐧 Switching From macOS To Linux](other-tech-stuff/switching-from-macos-to-linux.md)
-* [💻 Computer Hardware Setups](other-tech-stuff/custom-pc-specs.md)
-* [📝 How I Organize my Notes with Apps](other-tech-stuff/how-i-organize-my-notes-with-apps.md)
-* [Setting Up My Own VPN for Work](other-tech-stuff/setting-up-my-own-vpn-for-work.md)
-* [⌨️ Shortcut Keys on my Computer](other-tech-stuff/shortcut-keys-on-my-computer.md)
-* [Set Up Restic for backups using Google Drive](other-tech-stuff/set-up-restic-for-backups-using-google-drive.md)
-* [Ming's Backyard: A teaching material for Girls Who Code Club, Millbrae \(Dec. 7\)](other-tech-stuff/mings-backyard-a-teaching-material-for-girls-who-code-club-millbrae-dec.-7.md)
-* [Notes on how to write a book with LyX](other-tech-stuff/notes-on-how-to-write-a-book-with-lyx.md)
-* [Noogler 100: So you accepted Google's offer; what now?](other-tech-stuff/noogler-100-so-you-accepted-googles-offer-what-now.md)
-* [Notes on testing Polymer elements with Jasmine](other-tech-stuff/notes-on-testing-polymer-elements-with-jasmine.md)
-* [Using iPad pro as a Linux machine](other-tech-stuff/using-ipad-pro-as-a-linux-machine.md)
+* [🐧 Switching from macOS to Linux](setups/switching-from-macos-to-linux.md)
+* [💻 Computer Hardware Setups](setups/custom-pc-specs.md)
+* [📝 Organizing Notes with Apps](setups/how-i-organize-my-notes-with-apps.md)
+* [🌐 Set Up My Own VPN](setups/setting-up-my-own-vpn-for-work.md)
+* [⌨️ Shortcut Keys on my Mac](setups/shortcut-keys-on-my-computer.md)
+* [Set up Restic for backups using Google Drive](setups/set-up-restic-for-backups-using-google-drive.md)
+* [On writing a book with LyX](setups/notes-on-how-to-write-a-book-with-lyx.md)
+* [iPad pro as a Linux machine](setups/using-ipad-pro-as-a-linux-machine.md)
 
 ## Life Experiences <a id="summary-and-review"></a>
 
