@@ -14,10 +14,10 @@ I would like to have a coherent, unified solution that makes switching devices d
 
 Is there already technologies to solve this problem?
 
-* **Samsung DeX mode:** You would probably not carry a keyboard, a mouse, and a monitor every time you feel like working at your local coffee shop. If you do find a permanent spot to settle down those peripherals -- most likely your cubicle and/or your own room -- you would probably desire a device with mroe computational power.
+* **Samsung DeX mode:** You would probably not carry a keyboard, a mouse, and a monitor every time you feel like working at your local coffee shop. If you do find a permanent spot to settle down those peripherals -- most likely your cubicle and/or your own room -- you would probably desire a device with more computational power.
 * **Cloud Computing**: Does not solve the problem of browser loading \(In fact, the cloud applications load so slowly that [people are arguing that](https://news.ycombinator.com/item?id=15643663) cloud computing has brought our end-user experience back to last decade\)
-* [**Continuity features from Apple**](https://support.apple.com/en-us/HT204681)**, especially Handoff:** requires compatiability on the applications on both the macOS version and the iOS version. 
-* There was a company from the last century whose employees carried a smart card, not laptops, from/to meeting rooms. Terminals were available at their desks and in each meeting room, so one could plug in the card and get back to their desktop environment. This is great for demonstrations and team collborations. Sadly, I could not find the original article I've read about this from.
+* [**Continuity features from Apple**](https://support.apple.com/en-us/HT204681)**, especially Handoff:** requires compatibility on the applications on both the macOS version and the iOS version. 
+* There was a company from the last century whose employees carried a smart card, not laptops, from/to meeting rooms. Terminals were available at their desks and in each meeting room, so one could plug in the card and get back to their desktop environment. This is great for demonstrations and team collaborations. Sadly, I could not find the original article I've read about this from.
 
 ### Present Status
 
@@ -32,7 +32,7 @@ Here's what I'd like to see in a solution:
 
 * **Ability to continue work on different forms of devices.** Full-fledged 108-key keyboard + 35 inch monitor? Laptop that weights under 2 lbs? Smartphone in your pockets? Yes please!
 * **Ability to work on the same object**, not relying on transferring/syncing documents back and forth. This might imply "streaming": We can
-  * stream video using technologies such as VNC \(which is slow & laggy but more compatiable; I'm actually using VNC quite frequently\),
+  * stream video using technologies such as VNC \(which is slow & laggy but more compatible; I'm actually using VNC quite frequently\),
   * stream UI components such as windows using X-server \(which is less laggy, but more difficult to implement to different platforms\), or
   * stream text only using `ssh` + `tmux`, etc. I would really love to have GUI, though.
 * Little sacrifice on performance.
