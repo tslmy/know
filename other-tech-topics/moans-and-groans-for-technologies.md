@@ -30,7 +30,7 @@ Currently, I'm using a extra-portable ultrabook \(MacBook, 2015\) as my daily dr
 
 Here's what I'd like to see in a solution:
 
-* **Ability to continue work on different forms of devices.** Full-fledged 108-key keyboard + 35 inch monitor? Laptop that weights under 2 lbs? Smartphone in your pockets? Yes please!
+* **Ability to continue work on different forms of devices.** Full-fledged 108-key keyboard + 35 inch monitor? Laptop that weighs under 2 lbs? Smartphone in your pockets? Yes please!
 * **Ability to work on the same object**, not relying on transferring/syncing documents back and forth. This might imply "streaming": We can
   * stream video using technologies such as VNC \(which is slow & laggy but more compatible; I'm actually using VNC quite frequently\),
   * stream UI components such as windows using X-server \(which is less laggy, but more difficult to implement to different platforms\), or
