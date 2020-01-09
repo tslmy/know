@@ -16,6 +16,7 @@
 * [Ming's Backyard: A teaching material for Girls Who Code Club, Millbrae \(Dec. 7\)](other-tech-topics/mings-backyard-a-teaching-material-for-girls-who-code-club-millbrae-dec.-7.md)
 * [Moans and Groans for Technologies](other-tech-topics/moans-and-groans-for-technologies.md)
 * [UI/UX Design Languages](other-tech-topics/ui-ux-design-languages.md)
+* [Questions to ask the engineers before dogfooding a hardware](other-tech-topics/questions-to-ask-the-engineers-before-dogfooding-a-hardware.md)
 
 ## Data Science
 
