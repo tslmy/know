@@ -14,10 +14,21 @@ I would like to have a coherent, unified solution that makes switching devices d
 
 Is there already technologies to solve this problem?
 
-* **Samsung DeX mode:** You would probably not carry a keyboard, a mouse, and a monitor every time you feel like working at your local coffee shop. If you do find a permanent spot to settle down those peripherals -- most likely your cubicle and/or your own room -- you would probably desire a device with more computational power.
+* **Desktop mode for docked smartphones:** You would probably not carry a keyboard, a mouse, and a monitor every time you feel like working at your local coffee shop. If you do find a permanent spot to settle down those peripherals -- most likely your cubicle and/or your own room -- you would probably desire a device with more computational power. Examples include:
+  * **Samsung DeX mode:** This only works for Samsung devices, apparently.
+  * \*\*\*\*[**maru**](https://maruos.com/): An Android variant that mimics Samsung DeX mode. Needs an Android phone, apparently.
+  * \*\*\*\*[**Android Q adds a native desktop mode support**](https://www.androidpolice.com/2019/03/14/android-q-brings-native-desktop-mode-support/): This is also the only option I could try out with my current hardwares. To enable:
+
+    1. On your computer, install `adb` via `brew cask install android-platform-tools`
+    2. On your phone, in "Settings" &gt; "About phone", tap "Build number" 7 times to enable Developer mode.
+    3. In "Settings" &gt; "System" &gt; "Developer options" &gt; enable "USB debugging" and "Force desktop mode".
+    4. Connect your phone to your computer. Authorize on your phone.
+    5. Run this: `adb shell am start -n "com.google.android.apps.nexuslauncher/com.android.launcher3.SecondaryDisplayLauncher"`
+
+    Oddly, it never worked on my monitor and our TV. Maybe it's the adapter to blame?
 * **Cloud Computing**: Does not solve the problem of browser loading \(In fact, the cloud applications load so slowly that [people are arguing that](https://news.ycombinator.com/item?id=15643663) cloud computing has brought our end-user experience back to last decade\)
 * [**Continuity features from Apple**](https://support.apple.com/en-us/HT204681)**, especially Handoff:** requires compatibility on the applications on both the macOS version and the iOS version. 
-* There was a company from the last century whose employees carried a smart card, not laptops, from/to meeting rooms. Terminals were available at their desks and in each meeting room, so one could plug in the card and get back to their desktop environment. This is great for demonstrations and team collaborations. Sadly, I could not find the original article I've read about this from.
+* **Smart card and ubiquitous terminals:** There was a company from the last century whose employees carried a smart card, not laptops, from/to meeting rooms. Terminals were available at their desks and in each meeting room, so one could plug in the card and get back to their desktop environment. This is great for demonstrations and team collaborations. Sadly, I could not find the original article I've read about this from.
 
 ### Present Status
 
