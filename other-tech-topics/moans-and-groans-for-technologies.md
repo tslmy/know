@@ -1,6 +1,6 @@
 # Moans and Groans for Technologies
 
-## Moans and Groans \#1: Continuity
+## Continuity
 
 I would like to have a coherent, unified solution that makes switching devices during one session easy and natural.
 
@@ -55,4 +55,40 @@ Here are a few possible solutions we can get started now:
 
 * **Switch to Samsung**, I guess? At present, I believe this is the best way to solve the continuity problem between phone and desktop. I believe there's a good client app for remote desktop on Android, which could be used to connect us to a more powerful, immobile, device for computation-hungry tasks.
 * Switch to Linux and start **forwarding all windows** through X?
+
+## Safety of Data v.s. the Cost of Self-hosting
+
+### Motivation
+
+You want to keep your data safe \(reads: not leaked\). You can:
+
+* Rely on external, encrypted storage, or
+* host your own data, services, etc., if only you have the capacity to keep it reliable and safe.
+
+Cost associated with self-hosting comes in different facets:
+
+* Upfront cost:
+  * Depends on your need, you might need to purchase dedicated device as your home server.
+* Maintenance cost:
+  * Utility cost: 
+    * a decently powerful server can cost a lot on your electricity bill.
+    * if you heavily rely on your own server, you probably need a fast Internet, which can be expensive.
+  * You would probably want off-site backups regardless of self-hosting. This can be a headache to plan out.
+  * Keep services **running**, **resilient** to disasters ****and **secure** from malicious activities.
+
+### Requirements
+
+I want my data and personal services to be:
+
+* Available
+  * able to access -- it should be up and running when I need it.
+  * easy to access
+    * Method of access: there should be POSIX-compliant and has an iOS app for that.
+    * Simplicity: Authenticate and authorize me smartly.
+  * fast to access -- a data vault that requires 10 min of retrieval for a phone number is not acceptable. 
+* Coherent across copies -- that means local caches on each terminal device plus all redundant backups.
+* Not be lost easily -- robust to hard disk failures, etc.
+  * resilient to \(most likely natural\) disasters =&gt; calls for off-site backups, which might impact ease of access
+  * secure from malicious activities =&gt; calls for authentication &  authorization mechanisms
+* Not be leaked easily =&gt; calls for encryption
 
