@@ -34,6 +34,7 @@
 
 ## Setups
 
+* [Data Science Workspace](setups/data-science-workspace.md)
 * [🐧 Switching from macOS to Linux](setups/switching-from-macos-to-linux.md)
 * [💻 Computer Hardware Setups](setups/custom-pc-specs.md)
 * [📝 Organizing Notes with Apps](setups/how-i-organize-my-notes-with-apps.md)
