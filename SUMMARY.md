@@ -54,6 +54,7 @@
   * [🎧 Ear-/headphones I Owned](summary-and-review/things-i-own/ear-headphones-i-owned.md)
   * [☕️ Coffee Brewing Equipments](summary-and-review/things-i-own/coffee-brewing-equipments.md)
 * [Doing: Stuff I do](summary-and-review/doing-stuff-i-do/README.md)
+  * [To want, to like, and to love](summary-and-review/doing-stuff-i-do/to-want-to-like-and-to-love.md)
   * [🤗 Free Hugs](summary-and-review/doing-stuff-i-do/free-hugs.md)
   * [📚 Reading](summary-and-review/doing-stuff-i-do/reading/README.md)
     * [📚 Book Reviews](summary-and-review/doing-stuff-i-do/reading/book-reviews.md)
