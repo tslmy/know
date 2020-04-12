@@ -37,7 +37,7 @@
 * [Data Science Workspace](setups/data-science-workspace.md)
 * [🐧 Switching from macOS to Linux](setups/switching-from-macos-to-linux.md)
 * [💻 Computer Hardware Setups](setups/custom-pc-specs.md)
-* [📝 Organizing Notes with Apps](setups/how-i-organize-my-notes-with-apps.md)
+* [📝 Organizing Notes](setups/how-i-organize-my-notes-with-apps.md)
 * [🌐 Set Up My Own VPN](setups/setting-up-my-own-vpn-for-work.md)
 * [⌨️ Shortcut Keys on my Mac](setups/shortcut-keys-on-my-computer.md)
 * [Set up Restic for backups using Google Drive](setups/set-up-restic-for-backups-using-google-drive.md)
