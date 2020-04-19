@@ -7,9 +7,9 @@ Aggregated from [this question](https://www.researchgate.net/post/where_can_i_ge
 * **OpenNEURO** : [https://openneuro.org/](https://openneuro.org/) \(formerly [OpenfMRI](https://openfmri.org/)\) - I would suggest starting with this.
 * Connectome datasets -- A **connectome** \(/kəˈnɛktoʊm/\) is a comprehensive map of neural connections in the brain. \(via [Wikipedia](https://en.wikipedia.org/wiki/Connectome)\). Can contain **functional** connectivity and **anatomical** connectivity.
   * Human Connectome Project : [https://www.humanconnectome.org/](https://www.humanconnectome.org/) \(Sponsored by NIH; c.f. NDA\)
-* 1000 Functional Connectomes Project : [http://fcon\_1000.projects.nitrc.org/fcpClassic/FcpTable.html](http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html)
-  * For Reliability and Reproducibility researches: [http://fcon\_1000.projects.nitrc.org/indi/CoRR/html/index.html](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/index.html)
-    * My Connectome Project - characterizes **changes over &gt;1 year** : [http://myconnectome.org/wp/](http://myconnectome.org/wp/)
+  * 1000 Functional Connectomes Project : [http://fcon\_1000.projects.nitrc.org/fcpClassic/FcpTable.html](http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html)
+    * For Reliability and Reproducibility researches: [http://fcon\_1000.projects.nitrc.org/indi/CoRR/html/index.html](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/index.html)
+  * My Connectome Project - characterizes **changes over &gt;1 year** : [http://myconnectome.org/wp/](http://myconnectome.org/wp/)
 * The Open Access Series of Imaging Studies \(OASIS\): [http://www.oasis-brains.org/](http://www.oasis-brains.org/)
   * See [this literature](https://www.medrxiv.org/content/10.1101/2019.12.13.19014902v1) for OASIS-3 dataset.
 * University-based:
