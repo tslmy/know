@@ -20,6 +20,7 @@
 
 ## Data Science
 
+* [Where to find Brain MRI / NeuroImaging Datasets?](data-science/where-to-find-brain-mri-neuroimaging-datasets.md)
 * [Types of Parallel Computing](data-science/types-of-parallel-computing.md)
 * [🐋 How to Install auto-sklearn on macOS 10.14~10.15](data-science/how-to-install-auto-sklearn-on-macos-10.14-10.15.md)
 * [Surveys and Questionnaires](data-science/surveys-and-questionnaires/README.md)
