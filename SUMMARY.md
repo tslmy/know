@@ -17,6 +17,7 @@
 * [Moans and Groans for Technologies](other-tech-topics/moans-and-groans-for-technologies.md)
 * [UI/UX Design Languages](other-tech-topics/ui-ux-design-languages.md)
 * [Questions to ask the engineers before dogfooding a hardware](other-tech-topics/questions-to-ask-the-engineers-before-dogfooding-a-hardware.md)
+* [What to do with a Raspberry Pi?](other-tech-topics/what-to-do-with-a-raspberry-pi.md)
 
 ## Data Science
 
