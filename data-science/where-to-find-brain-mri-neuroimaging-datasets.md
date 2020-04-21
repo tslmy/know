@@ -22,6 +22,12 @@ Aggregated from [this question](https://www.researchgate.net/post/where_can_i_ge
   * 04/18/2020: 3 out of 5 data sources are down. I suggest manually browsing these sources if you so desire.
   * This website is developed at the [Information Sciences Institute](https://www.isi.edu/) of USC. I wonder whether the collaborate with LONI \(see above\).
 
+Some datasets I found interesting from OpenNEURO:
+
+* \*\*\*\*[**28andMe**](https://openneuro.org/datasets/ds002674/versions/1.0.2): Daily MRI for a consecutive 30 days. [Reference](https://www.biorxiv.org/content/10.1101/866913v1).
+* \*\*\*\*[**Deep Image Reconstruction**](https://openneuro.org/datasets/ds001506/versions/1.3.1): This is the [study](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006633) where authors used Artificial Neural Network \(Deep Learning\) to reconstruct the images that the subject sees.
+* \*\*\*\*[**Generic Object Decoding \(fMRI on ImageNet\)**](https://openneuro.org/datasets/ds001246/versions/1.2.1): visual features can be predicted from fMRI patterns, which in turn can be used to predict mental images \(which can be an imaginary image or something the subject is looking at\). [Reference](https://www.nature.com/articles/ncomms15037).
+
 ## Non-image data
 
 There are other non-image data sources that might be of interest:
@@ -39,4 +45,6 @@ You might also be interested in related data-processing tools:
 * [brainlife.io](https://brainlife.io/) offers many tools via in-browser VNC. I recommend mrView/[Mrtrix3](https://www.mrtrix.org/).
 
 ![](../.gitbook/assets/image%20%288%29.png)
+
+
 
