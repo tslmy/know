@@ -11,6 +11,7 @@
 
 ## Other Tech Topics
 
+* [Explainable Deep Learning](other-tech-topics/explainable-deep-learning.md)
 * [Notes on testing Polymer elements with Jasmine](other-tech-topics/notes-on-testing-polymer-elements-with-jasmine.md)
 * [Noogler 100: So you accepted Google's offer; what now?](other-tech-topics/noogler-100-so-you-accepted-googles-offer-what-now.md)
 * [Ming's Backyard: A teaching material for Girls Who Code Club, Millbrae \(Dec. 7\)](other-tech-topics/mings-backyard-a-teaching-material-for-girls-who-code-club-millbrae-dec.-7.md)

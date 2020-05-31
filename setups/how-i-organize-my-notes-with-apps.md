@@ -4,7 +4,7 @@ description: 'Describes how I take, store, and edit various notes.'
 
 # 📝 Organizing Notes
 
-![https://unsplash.com/photos/5bYxXawHOQg](../.gitbook/assets/image%20%289%29.png)
+![https://unsplash.com/photos/5bYxXawHOQg](../.gitbook/assets/image%20%288%29%20%281%29.png)
 
 ## Requirements
 
@@ -33,7 +33,7 @@ To have them **easily accessible**, I want them to be full-text-indexed and sear
       * cons:
         * An **online** service -- does not work offline.
 
-![Figure 1: Search UI on GitBook](../.gitbook/assets/image%20%2813%29.png)
+![Figure 1: Search UI on GitBook](../.gitbook/assets/image%20%2812%29.png)
 
 ![Figure 2: Search UI on GitHub](../.gitbook/assets/image%20%282%29.png)
 
@@ -84,7 +84,7 @@ Stick with GitBook for adding & updating public notes. TODO:
 
 ## \(Deprecated\) How Notes & Writings Can Be Categorized
 
-![Classifications of my writings &amp; notes, and where to put them.](../.gitbook/assets/image%20%2814%29.png)
+![Classifications of my writings &amp; notes, and where to put them.](../.gitbook/assets/image%20%288%29%20%282%29.png)
 
 | Type | Updatable? | How Refined? | Can Made Public? | How valuable to others? |
 | :--- | :--- | :--- | :--- | :--- |

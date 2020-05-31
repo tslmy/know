@@ -1,6 +1,6 @@
 # 📚 Reading
 
-![Photo by Jo&#xE3;o Silas on Unsplash](../../../.gitbook/assets/image%20%2815%29.png)
+![Photo by Jo&#xE3;o Silas on Unsplash](../../../.gitbook/assets/image%20%2811%29.png)
 
 After joining Google and life catching on a regular pace, I start to assume that I would have the capacity to read more after work.
 

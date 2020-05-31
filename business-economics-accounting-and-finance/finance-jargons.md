@@ -28,7 +28,7 @@
 
 ### CBOE Volatility Index \([VIX](http://www.cboe.com/vix)\)
 
-![Screenshot from http://www.cboe.com/vix](../.gitbook/assets/image%20%285%29.png)
+![Screenshot from http://www.cboe.com/vix](../.gitbook/assets/image%20%283%29.png)
 
 * Designed by the [Chicago Board Options Exchange](https://www.investopedia.com/terms/c/cboe.asp) \(CBOE\).
 * Implies 30-day volatility from S&P 500 Index.
