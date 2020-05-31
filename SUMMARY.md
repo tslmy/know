@@ -11,7 +11,6 @@
 
 ## Other Tech Topics
 
-* [Explainable Deep Learning](other-tech-topics/explainable-deep-learning.md)
 * [Notes on testing Polymer elements with Jasmine](other-tech-topics/notes-on-testing-polymer-elements-with-jasmine.md)
 * [Noogler 100: So you accepted Google's offer; what now?](other-tech-topics/noogler-100-so-you-accepted-googles-offer-what-now.md)
 * [Ming's Backyard: A teaching material for Girls Who Code Club, Millbrae \(Dec. 7\)](other-tech-topics/mings-backyard-a-teaching-material-for-girls-who-code-club-millbrae-dec.-7.md)
@@ -32,6 +31,7 @@
   * [On Clustering Documents Unsupervisedly](data-science/text-mining/clustering-documents-unsupervisedly.md)
   * [💬 Char/Word/Sent/Doc Embedding Models](data-science/text-mining/char-word-sent-doc-embedding-models.md)
 * [Neural Networks](data-science/neural-networks/README.md)
+  * [Explainable Deep Learning](data-science/neural-networks/explainable-deep-learning.md)
   * [☕ Explaining Heatmap Estimation with CNN, Metaphorically](data-science/neural-networks/explaining-heatmap-estimation-with-cnn-metaphorically.md)
   * [Optimizers For Neural Networks](data-science/neural-networks/optimizers-for-neural-networks.md)
 
