@@ -24,4 +24,5 @@ Here we go.
 * **190901**: Made another short melody, [Me Gegavere](https://soundcloud.com/tslmy/me-gegavere), with [Reason Compact](https://apps.apple.com/us/app/reason-compact-make-music/id1253419004).
 * **190904**: Built my first Docker compose file on top of [influxdata/sandbox](https://github.com/influxdata/sandbox).
 * **190906**: Figured out how to install `auto-sklearn` on macOS for the recent versions.
+* **200124**: There are many [customizable parts in shirts and suits](http://www.tailorskeep.com/style-guide).
 

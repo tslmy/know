@@ -81,3 +81,8 @@ I'm a loyal UNIQLO frequenter. Guess that's [why my date weren't always impresse
 
 ![Me in UNIQLO](../../.gitbook/assets/img_9769.jpg)
 
+I'm thinking of buying a [customized](https://hallmadden.com/suits) \("tailored", "bespoke", "made-to-fit", or "fitted", you may say\) suit, mainly for attending a ceremony that falls in 3 weeks. Listed below are a few shops that I might visit. Sadly, the usual process time stretches to 3 months \(with the quickest turnout to be 6 weeks\), so I might have to stick with off-the-shelf \(i.e., pre-made\) ones if I so decided to buy one.
+
+* [http://www.tailorskeep.com/style-guide](http://www.tailorskeep.com/style-guide)
+* [https://francouomo.com/collections](https://francouomo.com/collections)
+
