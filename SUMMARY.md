@@ -18,10 +18,12 @@
 * [UI/UX Design Languages](other-tech-topics/ui-ux-design-languages.md)
 * [Questions to ask the engineers before dogfooding a hardware](other-tech-topics/questions-to-ask-the-engineers-before-dogfooding-a-hardware.md)
 * [What to do with a Raspberry Pi?](other-tech-topics/what-to-do-with-a-raspberry-pi.md)
+* [How to derive the energy of a electromagnetic plane wave](other-tech-topics/how-to-derive-the-energy-of-a-electromagnetic-plane-wave.md)
 
 ## Data Science
 
 * [Where to find Brain MRI / NeuroImaging Datasets?](data-science/where-to-find-brain-mri-neuroimaging-datasets.md)
+* [Where to find protein data and run basic Molecular Dynamics simulation](data-science/where-to-find-protein-data-and-run-basic-molecular-dynamics-simulation.md)
 * [Types of Parallel Computing](data-science/types-of-parallel-computing.md)
 * [🐋 How to Install auto-sklearn on macOS 10.14~10.15](data-science/how-to-install-auto-sklearn-on-macos-10.14-10.15.md)
 * [Surveys and Questionnaires](data-science/surveys-and-questionnaires/README.md)
