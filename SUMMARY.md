@@ -33,6 +33,7 @@
   * [On Clustering Documents Unsupervisedly](data-science/text-mining/clustering-documents-unsupervisedly.md)
   * [💬 Char/Word/Sent/Doc Embedding Models](data-science/text-mining/char-word-sent-doc-embedding-models.md)
 * [Neural Networks](data-science/neural-networks/README.md)
+  * [Notes from SIGIR2020](data-science/neural-networks/notes-from-sigir2020.md)
   * [Explainable Deep Learning](data-science/neural-networks/explainable-deep-learning.md)
   * [☕ Explaining Heatmap Estimation with CNN, Metaphorically](data-science/neural-networks/explaining-heatmap-estimation-with-cnn-metaphorically.md)
   * [Optimizers For Neural Networks](data-science/neural-networks/optimizers-for-neural-networks.md)
