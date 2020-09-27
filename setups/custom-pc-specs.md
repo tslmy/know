@@ -1,6 +1,20 @@
 # 💻 Computer Hardware Setups
 
-## Main Rig
+## Main Rig \(Sept 2020\)
+
+![](../.gitbook/assets/pxl_20200926_180110033.jpg)
+
+* MacBook Pro \(13-inch, 2020, Four Thunderbolt 3 ports\) \($2,951.79\)
+* Kinesis Advantage2 Quiet LF Ergonomic Keyboard \(KB600LFQ\) \($371.21\) \*
+* [Evoluent VerticalMouse 4](https://evoluent.com/products/vm4r/) \($89.95\) \*
+* [Dell UltraSharp 25 Monitor \(U2518D\)](https://www.dell.com/en-us/work/shop/dell-ultrasharp-25-monitor-u2518d/apd/210-amll/monitors-monitor-accessories) \($288.95\) 
+* [Dell UltraSharp 27-inch USB-C Monitor \(2719DC\)](https://www.amazon.com/Dell-Ultrasharp-U2719DC-Performance-Compatible/dp/B07JQTNCGB/ref=sr_1_1?dchild=1&keywords=DELL+U2719DC+Display&qid=1601181930&sr=8-1) \($428.00\) \*
+
+Total: $4,129.90
+
+Asterisked are components that belong to my company, and the prices are only an estimate.
+
+## Main Rig \(End-of-Year 2019\)
 
 ![](../.gitbook/assets/img_97d413f06811-1.jpeg)
 

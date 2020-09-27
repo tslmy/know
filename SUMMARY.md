@@ -56,6 +56,7 @@
   * [Being a software developer](summary-and-review/being-what-i-am/being-a-software-developer.md)
   * [Being Minimalistic and Mobile](summary-and-review/being-what-i-am/being-minimalistic-and-mobile.md)
 * [Owning: Things I Own](summary-and-review/things-i-own/README.md)
+  * [Considerations about replacing my MacBook \(2015\)](summary-and-review/things-i-own/considerations-about-replacing-my-macbook-2015.md)
   * [🚲 Bikes I Owned](summary-and-review/things-i-own/bikes-i-owned.md)
   * [🎧 Ear-/headphones I Owned](summary-and-review/things-i-own/ear-headphones-i-owned.md)
   * [☕️ Coffee Brewing Equipments](summary-and-review/things-i-own/coffee-brewing-equipments.md)
