@@ -22,6 +22,7 @@
 
 ## Data Science
 
+* [Ways to improve the performance of a SQL MERGE statement](data-science/ways-to-improve-the-performance-of-a-sql-merge-statement.md)
 * [Where to find Brain MRI / NeuroImaging Datasets?](data-science/where-to-find-brain-mri-neuroimaging-datasets.md)
 * [Where to find protein data and run basic Molecular Dynamics simulation](data-science/where-to-find-protein-data-and-run-basic-molecular-dynamics-simulation.md)
 * [Types of Parallel Computing](data-science/types-of-parallel-computing.md)
@@ -33,6 +34,11 @@
 * [Text Mining](data-science/text-mining/README.md)
   * [On Clustering Documents Unsupervisedly](data-science/text-mining/clustering-documents-unsupervisedly.md)
   * [💬 Char/Word/Sent/Doc Embedding Models](data-science/text-mining/char-word-sent-doc-embedding-models.md)
+* [Data Warehousing](data-science/data-warehousing/README.md)
+  * [Data ingestion pipeline types](data-science/data-warehousing/data-ingestion-pipeline-types.md)
+  * [Table organization schema](data-science/data-warehousing/table-organization-schema.md)
+  * [Data processing types](data-science/data-warehousing/data-processing-types.md)
+  * [Data storage systems](data-science/data-warehousing/data-storage-systems.md)
 * [Neural Networks](data-science/neural-networks/README.md)
   * [Explainable Deep Learning](data-science/neural-networks/explainable-deep-learning.md)
   * [☕ Explaining Heatmap Estimation with CNN, Metaphorically](data-science/neural-networks/explaining-heatmap-estimation-with-cnn-metaphorically.md)
