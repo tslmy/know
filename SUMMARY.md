@@ -19,6 +19,7 @@
 * [Questions to ask the engineers before dogfooding a hardware](other-tech-topics/questions-to-ask-the-engineers-before-dogfooding-a-hardware.md)
 * [What to do with a Raspberry Pi?](other-tech-topics/what-to-do-with-a-raspberry-pi.md)
 * [How to derive the energy of a electromagnetic plane wave](other-tech-topics/how-to-derive-the-energy-of-a-electromagnetic-plane-wave.md)
+* [I revised my code from 10 years ago](other-tech-topics/i-revised-my-code-from-10-years-ago.md)
 
 ## Data Science
 
