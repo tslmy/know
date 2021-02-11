@@ -6,9 +6,9 @@ description: This GitBook holds my publicly-shareable notes.
 
 ## About Mingyang Li
 
-I'm building internal tools for **anomaly detection** at [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+I'm building the search engine at eBay. I'm also an ex-googler from the YouTube Data team.
 
-Before this, I earned my Master's degree in [Data Science](https://dats.seas.upenn.edu/mingyang-li/) from [U of Penn](https://home.www.upenn.edu/).
+Education-wise, I earned my Master's degree in [Data Science](https://dats.seas.upenn.edu/mingyang-li/) from [U of Penn](https://home.www.upenn.edu/).
 
 * While at Penn, I worked at [Wharton Research Data Services](https://wrds-www.wharton.upenn.edu/) \(WRDS\) as a research associate. There, I built pipelines for parsing **SEC filings** into sectionized plain text.
 * In my master's **thesis** and [several other publications](https://scholar.google.com/citations?user=rSJ_vnYAAAAJ), I compared people's perceptions of Emojis and \(im-\)politeness strategies across countries. These papers were completed under the [World Well-Being Project](http://www.wwbp.org/) \(WWBP\), Positive Psychology Center \(PPC\) of Penn.
